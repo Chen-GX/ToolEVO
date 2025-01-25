@@ -1,0 +1,950 @@
+{"qid": "hard-flight-0000", "question": "What percentage of the flights from TPA were delayed on 2022-01-04?", "answer": "6.9%"}
+{"qid": "hard-flight-0001", "question": "What percentage of the flights from MIA were delayed on 2022-04-01?", "answer": "20.0%"}
+{"qid": "hard-flight-0002", "question": "What percentage of the flights from BUR were delayed on 2022-04-15?", "answer": "2.1%"}
+{"qid": "hard-flight-0003", "question": "What percentage of the flights from SJU were delayed on 2022-02-03?", "answer": "2.7%"}
+{"qid": "hard-flight-0004", "question": "What percentage of the flights from DFW were delayed on 2022-02-23?", "answer": "67.6%"}
+{"qid": "hard-flight-0005", "question": "What percentage of the flights from EWR were delayed on 2022-02-01?", "answer": "3.4%"}
+{"qid": "hard-flight-0006", "question": "What percentage of the flights from STL were delayed on 2022-02-02?", "answer": "89.0%"}
+{"qid": "hard-flight-0007", "question": "What percentage of the flights from EWR were delayed on 2022-02-03?", "answer": "22.6%"}
+{"qid": "hard-flight-0008", "question": "What percentage of the flights from TTN were delayed on 2022-04-03?", "answer": "40.0%"}
+{"qid": "hard-flight-0009", "question": "What percentage of the flights from GSP were delayed on 2022-01-28?", "answer": "6.5%"}
+{"qid": "hard-flight-0010", "question": "What percentage of the flights from ORD were delayed on 2022-07-23?", "answer": "15.8%"}
+{"qid": "hard-flight-0011", "question": "What percentage of the flights from JFK were delayed on 2022-05-22?", "answer": "16.2%"}
+{"qid": "hard-flight-0012", "question": "What percentage of the flights from CLT were delayed on 2022-07-12?", "answer": "2.5%"}
+{"qid": "hard-flight-0013", "question": "What percentage of the flights from DFW were delayed on 2022-02-24?", "answer": "70.9%"}
+{"qid": "hard-flight-0014", "question": "What percentage of the flights from DFW were delayed on 2022-05-05?", "answer": "7.1%"}
+{"qid": "hard-flight-0015", "question": "What percentage of the flights from BOS were delayed on 2022-01-29?", "answer": "100.0%"}
+{"qid": "hard-flight-0016", "question": "What percentage of the flights from LAS were delayed on 2022-04-01?", "answer": "6.8%"}
+{"qid": "hard-flight-0017", "question": "What percentage of the flights from LGA were delayed on 2022-02-05?", "answer": "13.5%"}
+{"qid": "hard-flight-0018", "question": "What percentage of the flights from MSY were delayed on 2022-02-05?", "answer": "11.8%"}
+{"qid": "hard-flight-0019", "question": "What percentage of the flights from EWR were delayed on 2022-06-01?", "answer": "22.2%"}
+{"qid": "hard-flight-0020", "question": "What percentage of the flights from DCA were delayed on 2022-01-28?", "answer": "11.0%"}
+{"qid": "hard-flight-0021", "question": "What percentage of the flights from DEN were delayed on 2022-03-09?", "answer": "10.5%"}
+{"qid": "hard-flight-0022", "question": "What percentage of the flights from MYR were delayed on 2022-01-21?", "answer": "35.7%"}
+{"qid": "hard-flight-0023", "question": "What percentage of the flights from TYR were delayed on 2022-02-03?", "answer": "100.0%"}
+{"qid": "hard-flight-0024", "question": "What percentage of the flights from CHO were delayed on 2022-01-16?", "answer": "78.6%"}
+{"qid": "hard-flight-0025", "question": "What percentage of the flights from BOS were delayed on 2022-05-27?", "answer": "9.0%"}
+{"qid": "hard-flight-0026", "question": "What percentage of the flights from DSM were delayed on 2022-02-17?", "answer": "8.5%"}
+{"qid": "hard-flight-0027", "question": "What percentage of the flights from RDU were delayed on 2022-04-08?", "answer": "8.8%"}
+{"qid": "hard-flight-0028", "question": "What percentage of the flights from CMH were delayed on 2022-01-02?", "answer": "14.3%"}
+{"qid": "hard-flight-0029", "question": "What percentage of the flights from LAS were delayed on 2022-02-02?", "answer": "7.6%"}
+{"qid": "hard-flight-0030", "question": "What percentage of the flights from BOS were delayed on 2022-05-22?", "answer": "14.0%"}
+{"qid": "hard-flight-0031", "question": "What percentage of the flights from CLE were delayed on 2022-03-27?", "answer": "0.9%"}
+{"qid": "hard-flight-0032", "question": "What percentage of the flights from PIE were delayed on 2022-03-12?", "answer": "29.0%"}
+{"qid": "hard-flight-0033", "question": "What percentage of the flights from DBQ were delayed on 2022-02-05?", "answer": "100.0%"}
+{"qid": "hard-flight-0034", "question": "What percentage of the flights from BOS were delayed on 2022-01-30?", "answer": "64.0%"}
+{"qid": "hard-flight-0035", "question": "What percentage of the flights from AUS were delayed on 2022-01-17?", "answer": "2.6%"}
+{"qid": "hard-flight-0036", "question": "What percentage of the flights from FLL were delayed on 2022-02-03?", "answer": "17.4%"}
+{"qid": "hard-flight-0037", "question": "What percentage of the flights from ORD were delayed on 2022-07-20?", "answer": "0.9%"}
+{"qid": "hard-flight-0038", "question": "What percentage of the flights from HPN were delayed on 2022-05-22?", "answer": "14.7%"}
+{"qid": "hard-flight-0039", "question": "What percentage of the flights from SMF were delayed on 2022-06-13?", "answer": "2.4%"}
+{"qid": "hard-flight-0040", "question": "What percentage of the flights from HNL were delayed on 2022-01-06?", "answer": "6.5%"}
+{"qid": "hard-flight-0041", "question": "What percentage of the flights from MCO were delayed on 2022-06-10?", "answer": "7.2%"}
+{"qid": "hard-flight-0042", "question": "What percentage of the flights from MIA were delayed on 2022-02-05?", "answer": "21.8%"}
+{"qid": "hard-flight-0043", "question": "What percentage of the flights from BZN were delayed on 2022-03-09?", "answer": "5.9%"}
+{"qid": "hard-flight-0044", "question": "What percentage of the flights from DCA were delayed on 2022-06-03?", "answer": "5.2%"}
+{"qid": "hard-flight-0045", "question": "What percentage of the flights from SNA were delayed on 2022-02-04?", "answer": "9.1%"}
+{"qid": "hard-flight-0046", "question": "What percentage of the flights from PHL were delayed on 2022-03-14?", "answer": "1.3%"}
+{"qid": "hard-flight-0047", "question": "What percentage of the flights from ORD were delayed on 2022-07-25?", "answer": "3.8%"}
+{"qid": "hard-flight-0048", "question": "What percentage of the flights from RSW were delayed on 2022-04-07?", "answer": "18.4%"}
+{"qid": "hard-flight-0049", "question": "What percentage of the flights from BNA were delayed on 2022-06-19?", "answer": "3.6%"}
+{"qid": "hard-flight-0050", "question": "What percentage of the flights from MCO were delayed on 2022-05-30?", "answer": "4.5%"}
+{"qid": "hard-flight-0051", "question": "What percentage of the flights from ATL were delayed on 2022-05-29?", "answer": "4.3%"}
+{"qid": "hard-flight-0052", "question": "What percentage of the flights from SFO were delayed on 2022-07-20?", "answer": "1.0%"}
+{"qid": "hard-flight-0053", "question": "What percentage of the flights from ORD were delayed on 2022-07-05?", "answer": "9.9%"}
+{"qid": "hard-flight-0054", "question": "What percentage of the flights from EYW were delayed on 2022-03-12?", "answer": "28.1%"}
+{"qid": "hard-flight-0055", "question": "What percentage of the flights from DFW were delayed on 2022-06-02?", "answer": "9.9%"}
+{"qid": "hard-flight-0056", "question": "What percentage of the flights from ORD were delayed on 2022-07-08?", "answer": "1.0%"}
+{"qid": "hard-flight-0057", "question": "What percentage of the flights from MSP were delayed on 2022-01-05?", "answer": "10.0%"}
+{"qid": "hard-flight-0058", "question": "What percentage of the flights from PBI were delayed on 2022-02-28?", "answer": "3.4%"}
+{"qid": "hard-flight-0059", "question": "What percentage of the flights from DFW were delayed on 2022-02-06?", "answer": "11.7%"}
+{"qid": "hard-flight-0060", "question": "What percentage of the flights from BOS were delayed on 2022-07-18?", "answer": "8.1%"}
+{"qid": "hard-flight-0061", "question": "What percentage of the flights from CLT were delayed on 2022-06-16?", "answer": "22.6%"}
+{"qid": "hard-flight-0062", "question": "What percentage of the flights from IAH were delayed on 2022-07-03?", "answer": "0.8%"}
+{"qid": "hard-flight-0063", "question": "What percentage of the flights from TYS were delayed on 2022-06-24?", "answer": "1.9%"}
+{"qid": "hard-flight-0064", "question": "What percentage of the flights from FWA were delayed on 2022-02-24?", "answer": "11.8%"}
+{"qid": "hard-flight-0065", "question": "What percentage of the flights from CHS were delayed on 2022-01-03?", "answer": "30.0%"}
+{"qid": "hard-flight-0066", "question": "What percentage of the flights from EWR were delayed on 2022-01-01?", "answer": "14.4%"}
+{"qid": "hard-flight-0067", "question": "What percentage of the flights from LAX were delayed on 2022-01-01?", "answer": "14.3%"}
+{"qid": "hard-flight-0068", "question": "What percentage of the flights from MSP were delayed on 2022-01-30?", "answer": "1.2%"}
+{"qid": "hard-flight-0069", "question": "What percentage of the flights from LGA were delayed on 2022-06-02?", "answer": "30.2%"}
+{"qid": "hard-flight-0070", "question": "What percentage of the flights from SYR were delayed on 2022-05-17?", "answer": "7.0%"}
+{"qid": "hard-flight-0071", "question": "What percentage of the flights from VPS were delayed on 2022-07-15?", "answer": "6.2%"}
+{"qid": "hard-flight-0072", "question": "What percentage of the flights from SFO were delayed on 2022-06-19?", "answer": "3.1%"}
+{"qid": "hard-flight-0073", "question": "What percentage of the flights from IAD were delayed on 2022-01-20?", "answer": "8.6%"}
+{"qid": "hard-flight-0074", "question": "What percentage of the flights from LGA were delayed on 2022-07-18?", "answer": "32.2%"}
+{"qid": "hard-flight-0075", "question": "What percentage of the flights from ORD were delayed on 2022-01-11?", "answer": "3.4%"}
+{"qid": "hard-flight-0076", "question": "What percentage of the flights from CLT were delayed on 2022-07-11?", "answer": "1.1%"}
+{"qid": "hard-flight-0077", "question": "What percentage of the flights from SDF were delayed on 2022-01-04?", "answer": "14.0%"}
+{"qid": "hard-flight-0078", "question": "What percentage of the flights from OAJ were delayed on 2022-01-22?", "answer": "100.0%"}
+{"qid": "hard-flight-0079", "question": "What percentage of the flights from CLE were delayed on 2022-02-03?", "answer": "89.1%"}
+{"qid": "hard-flight-0080", "question": "What percentage of the flights from PHL were delayed on 2022-06-10?", "answer": "4.1%"}
+{"qid": "hard-flight-0081", "question": "What percentage of the flights from ROC were delayed on 2022-03-06?", "answer": "7.1%"}
+{"qid": "hard-flight-0082", "question": "What percentage of the flights from JFK were delayed on 2022-02-06?", "answer": "3.4%"}
+{"qid": "hard-flight-0083", "question": "What percentage of the flights from DFW were delayed on 2022-06-23?", "answer": "2.9%"}
+{"qid": "hard-flight-0084", "question": "What percentage of the flights from IAD were delayed on 2022-05-27?", "answer": "12.9%"}
+{"qid": "hard-flight-0085", "question": "What percentage of the flights from SMF were delayed on 2022-01-16?", "answer": "2.6%"}
+{"qid": "hard-flight-0086", "question": "What percentage of the flights from EYW were delayed on 2022-02-04?", "answer": "40.7%"}
+{"qid": "hard-flight-0087", "question": "What percentage of the flights from MIA were delayed on 2022-07-06?", "answer": "6.5%"}
+{"qid": "hard-flight-0088", "question": "What percentage of the flights from SLC were delayed on 2022-06-21?", "answer": "0.6%"}
+{"qid": "hard-flight-0089", "question": "What percentage of the flights from CVG were delayed on 2022-02-04?", "answer": "38.6%"}
+{"qid": "hard-flight-0090", "question": "What percentage of the flights from CLT were delayed on 2022-06-13?", "answer": "3.1%"}
+{"qid": "hard-flight-0091", "question": "What percentage of the flights from EWR were delayed on 2022-01-16?", "answer": "17.5%"}
+{"qid": "hard-flight-0092", "question": "What percentage of the flights from ALO were delayed on 2022-04-30?", "answer": "50.0%"}
+{"qid": "hard-flight-0093", "question": "What percentage of the flights from SFO were delayed on 2022-07-25?", "answer": "2.0%"}
+{"qid": "hard-flight-0094", "question": "What percentage of the flights from EWR were delayed on 2022-01-17?", "answer": "13.6%"}
+{"qid": "hard-flight-0095", "question": "What percentage of the flights from SLC were delayed on 2022-02-23?", "answer": "4.3%"}
+{"qid": "hard-flight-0096", "question": "What percentage of the flights from TBN were delayed on 2022-01-02?", "answer": "100.0%"}
+{"qid": "hard-flight-0097", "question": "What percentage of the flights from DFW were delayed on 2022-02-03?", "answer": "91.2%"}
+{"qid": "hard-flight-0098", "question": "What percentage of the flights from LAS were delayed on 2022-01-07?", "answer": "6.4%"}
+{"qid": "hard-flight-0099", "question": "What percentage of the flights from PIT were delayed on 2022-01-16?", "answer": "25.7%"}
+{"qid": "hard-flight-0100", "question": "What is the average delay time of all the flights that departed from MYR on 2022-04-26?", "answer": "12.6"}
+{"qid": "hard-flight-0101", "question": "What is the average delay time of all the flights that departed from DRT on 2022-06-05?", "answer": "49.0"}
+{"qid": "hard-flight-0102", "question": "What is the average delay time of all the flights that departed from FSD on 2022-06-09?", "answer": "5.7"}
+{"qid": "hard-flight-0103", "question": "What is the average delay time of all the flights that departed from ADQ on 2022-07-28?", "answer": "0.0"}
+{"qid": "hard-flight-0104", "question": "What is the average delay time of all the flights that departed from SUX on 2022-05-01?", "answer": "1.5"}
+{"qid": "hard-flight-0105", "question": "What is the average delay time of all the flights that departed from ALB on 2022-04-11?", "answer": "13.5"}
+{"qid": "hard-flight-0106", "question": "What is the average delay time of all the flights that departed from LIH on 2022-02-26?", "answer": "3.3"}
+{"qid": "hard-flight-0107", "question": "What is the average delay time of all the flights that departed from KTN on 2022-03-14?", "answer": "2.2"}
+{"qid": "hard-flight-0108", "question": "What is the average delay time of all the flights that departed from BRW on 2022-02-08?", "answer": "12.0"}
+{"qid": "hard-flight-0109", "question": "What is the average delay time of all the flights that departed from DBQ on 2022-02-28?", "answer": "0.0"}
+{"qid": "hard-flight-0110", "question": "What is the average delay time of all the flights that departed from SAV on 2022-03-06?", "answer": "9.6"}
+{"qid": "hard-flight-0111", "question": "What is the average delay time of all the flights that departed from PBG on 2022-07-21?", "answer": "164.0"}
+{"qid": "hard-flight-0112", "question": "What is the average delay time of all the flights that departed from MBS on 2022-01-30?", "answer": "3.8"}
+{"qid": "hard-flight-0113", "question": "What is the average delay time of all the flights that departed from PDX on 2022-02-25?", "answer": "19.8"}
+{"qid": "hard-flight-0114", "question": "What is the average delay time of all the flights that departed from DLG on 2022-03-28?", "answer": "61.0"}
+{"qid": "hard-flight-0115", "question": "What is the average delay time of all the flights that departed from JAX on 2022-07-29?", "answer": "20.5"}
+{"qid": "hard-flight-0116", "question": "What is the average delay time of all the flights that departed from MFR on 2022-01-20?", "answer": "34.1"}
+{"qid": "hard-flight-0117", "question": "What is the average delay time of all the flights that departed from SJT on 2022-03-16?", "answer": "0.0"}
+{"qid": "hard-flight-0118", "question": "What is the average delay time of all the flights that departed from BIL on 2022-02-10?", "answer": "0.4"}
+{"qid": "hard-flight-0119", "question": "What is the average delay time of all the flights that departed from ANC on 2022-07-28?", "answer": "4.7"}
+{"qid": "hard-flight-0120", "question": "What is the average delay time of all the flights that departed from PSP on 2022-06-05?", "answer": "46.6"}
+{"qid": "hard-flight-0121", "question": "What is the average delay time of all the flights that departed from MOT on 2022-04-04?", "answer": "0.7"}
+{"qid": "hard-flight-0122", "question": "What is the average delay time of all the flights that departed from JLN on 2022-02-27?", "answer": "0.0"}
+{"qid": "hard-flight-0123", "question": "What is the average delay time of all the flights that departed from SLN on 2022-07-14?", "answer": "1.5"}
+{"qid": "hard-flight-0124", "question": "What is the average delay time of all the flights that departed from CRW on 2022-01-08?", "answer": "49.0"}
+{"qid": "hard-flight-0125", "question": "What is the average delay time of all the flights that departed from MCI on 2022-01-14?", "answer": "3.1"}
+{"qid": "hard-flight-0126", "question": "What is the average delay time of all the flights that departed from VLD on 2022-07-05?", "answer": "0.0"}
+{"qid": "hard-flight-0127", "question": "What is the average delay time of all the flights that departed from BMI on 2022-02-12?", "answer": "0.6"}
+{"qid": "hard-flight-0128", "question": "What is the average delay time of all the flights that departed from LWS on 2022-05-03?", "answer": "0.0"}
+{"qid": "hard-flight-0129", "question": "What is the average delay time of all the flights that departed from GRR on 2022-02-26?", "answer": "41.5"}
+{"qid": "hard-flight-0130", "question": "What is the average delay time of all the flights that departed from GFK on 2022-02-28?", "answer": "0.0"}
+{"qid": "hard-flight-0131", "question": "What is the average delay time of all the flights that departed from ANC on 2022-07-31?", "answer": "6.7"}
+{"qid": "hard-flight-0132", "question": "What is the average delay time of all the flights that departed from ICT on 2022-02-13?", "answer": "4.5"}
+{"qid": "hard-flight-0133", "question": "What is the average delay time of all the flights that departed from GRR on 2022-04-02?", "answer": "31.9"}
+{"qid": "hard-flight-0134", "question": "What is the average delay time of all the flights that departed from ACY on 2022-02-08?", "answer": "2.5"}
+{"qid": "hard-flight-0135", "question": "What is the average delay time of all the flights that departed from PIE on 2022-01-19?", "answer": "0.0"}
+{"qid": "hard-flight-0136", "question": "What is the average delay time of all the flights that departed from BDL on 2022-03-02?", "answer": "4.3"}
+{"qid": "hard-flight-0137", "question": "What is the average delay time of all the flights that departed from IDA on 2022-07-17?", "answer": "6.5"}
+{"qid": "hard-flight-0138", "question": "What is the average delay time of all the flights that departed from AZA on 2022-01-08?", "answer": "13.0"}
+{"qid": "hard-flight-0139", "question": "What is the average delay time of all the flights that departed from ABR on 2022-07-06?", "answer": "0.0"}
+{"qid": "hard-flight-0140", "question": "What is the average delay time of all the flights that departed from BHM on 2022-02-05?", "answer": "8.1"}
+{"qid": "hard-flight-0141", "question": "What is the average delay time of all the flights that departed from OAJ on 2022-07-06?", "answer": "1.0"}
+{"qid": "hard-flight-0142", "question": "What is the average delay time of all the flights that departed from HYA on 2022-07-09?", "answer": "43.0"}
+{"qid": "hard-flight-0143", "question": "What is the average delay time of all the flights that departed from BLV on 2022-05-09?", "answer": "0.0"}
+{"qid": "hard-flight-0144", "question": "What is the average delay time of all the flights that departed from MIA on 2022-06-05?", "answer": "15.2"}
+{"qid": "hard-flight-0145", "question": "What is the average delay time of all the flights that departed from CRW on 2022-07-02?", "answer": "7.9"}
+{"qid": "hard-flight-0146", "question": "What is the average delay time of all the flights that departed from ITO on 2022-02-24?", "answer": "4.5"}
+{"qid": "hard-flight-0147", "question": "What is the average delay time of all the flights that departed from MSP on 2022-01-08?", "answer": "19.1"}
+{"qid": "hard-flight-0148", "question": "What is the average delay time of all the flights that departed from LSE on 2022-07-19?", "answer": "0.0"}
+{"qid": "hard-flight-0149", "question": "What is the average delay time of all the flights that departed from DAY on 2022-01-16?", "answer": "12.7"}
+{"qid": "hard-flight-0150", "question": "What is the average delay time of all the flights that departed from FOD on 2022-05-04?", "answer": "0.0"}
+{"qid": "hard-flight-0151", "question": "What is the average delay time of all the flights that departed from STL on 2022-01-10?", "answer": "5.2"}
+{"qid": "hard-flight-0152", "question": "What is the average delay time of all the flights that departed from RIW on 2022-02-04?", "answer": "5.0"}
+{"qid": "hard-flight-0153", "question": "What is the average delay time of all the flights that departed from INL on 2022-01-31?", "answer": "11.0"}
+{"qid": "hard-flight-0154", "question": "What is the average delay time of all the flights that departed from STX on 2022-07-12?", "answer": "0.0"}
+{"qid": "hard-flight-0155", "question": "What is the average delay time of all the flights that departed from CGI on 2022-02-09?", "answer": "0.0"}
+{"qid": "hard-flight-0156", "question": "What is the average delay time of all the flights that departed from DRO on 2022-06-25?", "answer": "11.6"}
+{"qid": "hard-flight-0157", "question": "What is the average delay time of all the flights that departed from MLU on 2022-05-29?", "answer": "0.6"}
+{"qid": "hard-flight-0158", "question": "What is the average delay time of all the flights that departed from BPT on 2022-06-09?", "answer": "0.0"}
+{"qid": "hard-flight-0159", "question": "What is the average delay time of all the flights that departed from HDN on 2022-01-05?", "answer": "32.4"}
+{"qid": "hard-flight-0160", "question": "What is the average delay time of all the flights that departed from MGM on 2022-06-01?", "answer": "21.0"}
+{"qid": "hard-flight-0161", "question": "What is the average delay time of all the flights that departed from MTJ on 2022-04-15?", "answer": "0.0"}
+{"qid": "hard-flight-0162", "question": "What is the average delay time of all the flights that departed from MSP on 2022-05-22?", "answer": "23.2"}
+{"qid": "hard-flight-0163", "question": "What is the average delay time of all the flights that departed from LSE on 2022-01-01?", "answer": "29.4"}
+{"qid": "hard-flight-0164", "question": "What is the average delay time of all the flights that departed from LNK on 2022-06-19?", "answer": "48.7"}
+{"qid": "hard-flight-0165", "question": "What is the average delay time of all the flights that departed from SLC on 2022-02-12?", "answer": "9.6"}
+{"qid": "hard-flight-0166", "question": "What is the average delay time of all the flights that departed from FAR on 2022-03-23?", "answer": "9.9"}
+{"qid": "hard-flight-0167", "question": "What is the average delay time of all the flights that departed from MLB on 2022-05-20?", "answer": "11.7"}
+{"qid": "hard-flight-0168", "question": "What is the average delay time of all the flights that departed from EAU on 2022-05-12?", "answer": "0.0"}
+{"qid": "hard-flight-0169", "question": "What is the average delay time of all the flights that departed from ABI on 2022-03-28?", "answer": "10.4"}
+{"qid": "hard-flight-0170", "question": "What is the average delay time of all the flights that departed from SCK on 2022-07-29?", "answer": "73.5"}
+{"qid": "hard-flight-0171", "question": "What is the average delay time of all the flights that departed from SCK on 2022-07-06?", "answer": "17.0"}
+{"qid": "hard-flight-0172", "question": "What is the average delay time of all the flights that departed from TOL on 2022-04-15?", "answer": "12.0"}
+{"qid": "hard-flight-0173", "question": "What is the average delay time of all the flights that departed from STS on 2022-06-28?", "answer": "7.9"}
+{"qid": "hard-flight-0174", "question": "What is the average delay time of all the flights that departed from TWF on 2022-06-21?", "answer": "0.0"}
+{"qid": "hard-flight-0175", "question": "What is the average delay time of all the flights that departed from GNV on 2022-07-29?", "answer": "0.8"}
+{"qid": "hard-flight-0176", "question": "What is the average delay time of all the flights that departed from LRD on 2022-01-07?", "answer": "1.7"}
+{"qid": "hard-flight-0177", "question": "What is the average delay time of all the flights that departed from GUM on 2022-02-02?", "answer": "0.0"}
+{"qid": "hard-flight-0178", "question": "What is the average delay time of all the flights that departed from SYR on 2022-04-10?", "answer": "21.5"}
+{"qid": "hard-flight-0179", "question": "What is the average delay time of all the flights that departed from SMF on 2022-05-31?", "answer": "5.0"}
+{"qid": "hard-flight-0180", "question": "What is the average delay time of all the flights that departed from FOD on 2022-04-26?", "answer": "0.0"}
+{"qid": "hard-flight-0181", "question": "What is the average delay time of all the flights that departed from GCC on 2022-06-29?", "answer": "0.0"}
+{"qid": "hard-flight-0182", "question": "What is the average delay time of all the flights that departed from DCA on 2022-02-20?", "answer": "13.9"}
+{"qid": "hard-flight-0183", "question": "What is the average delay time of all the flights that departed from IAD on 2022-04-08?", "answer": "19.2"}
+{"qid": "hard-flight-0184", "question": "What is the average delay time of all the flights that departed from AKN on 2022-01-22?", "answer": "0.0"}
+{"qid": "hard-flight-0185", "question": "What is the average delay time of all the flights that departed from JAN on 2022-03-16?", "answer": "2.0"}
+{"qid": "hard-flight-0186", "question": "What is the average delay time of all the flights that departed from SCE on 2022-01-23?", "answer": "18.0"}
+{"qid": "hard-flight-0187", "question": "What is the average delay time of all the flights that departed from FLG on 2022-05-18?", "answer": "18.4"}
+{"qid": "hard-flight-0188", "question": "What is the average delay time of all the flights that departed from HOU on 2022-06-15?", "answer": "19.2"}
+{"qid": "hard-flight-0189", "question": "What is the average delay time of all the flights that departed from SAV on 2022-07-03?", "answer": "11.5"}
+{"qid": "hard-flight-0190", "question": "What is the average delay time of all the flights that departed from PAH on 2022-05-06?", "answer": "31.3"}
+{"qid": "hard-flight-0191", "question": "What is the average delay time of all the flights that departed from DEN on 2022-02-20?", "answer": "14.9"}
+{"qid": "hard-flight-0192", "question": "What is the average delay time of all the flights that departed from HYA on 2022-07-06?", "answer": "30.0"}
+{"qid": "hard-flight-0193", "question": "What is the average delay time of all the flights that departed from ITO on 2022-06-10?", "answer": "2.1"}
+{"qid": "hard-flight-0194", "question": "What is the average delay time of all the flights that departed from CGI on 2022-07-13?", "answer": "11.0"}
+{"qid": "hard-flight-0195", "question": "What is the average delay time of all the flights that departed from LBF on 2022-02-27?", "answer": "0.0"}
+{"qid": "hard-flight-0196", "question": "What is the average delay time of all the flights that departed from XWA on 2022-01-28?", "answer": "91.5"}
+{"qid": "hard-flight-0197", "question": "What is the average delay time of all the flights that departed from DVL on 2022-01-23?", "answer": "0.0"}
+{"qid": "hard-flight-0198", "question": "What is the average delay time of all the flights that departed from COD on 2022-02-23?", "answer": "63.0"}
+{"qid": "hard-flight-0199", "question": "What is the average delay time of all the flights that departed from BIL on 2022-03-16?", "answer": "0.0"}
+{"qid": "hard-flight-0200", "question": "How many flights were diverted on 2022-01-07?", "answer": "19"}
+{"qid": "hard-flight-0201", "question": "How many flights were diverted on 2022-05-17?", "answer": "42"}
+{"qid": "hard-flight-0202", "question": "How many flights were diverted on 2022-05-04?", "answer": "61"}
+{"qid": "hard-flight-0203", "question": "How many flights were diverted on 2022-03-28?", "answer": "21"}
+{"qid": "hard-flight-0204", "question": "How many flights were diverted on 2022-03-29?", "answer": "32"}
+{"qid": "hard-flight-0205", "question": "How many flights were diverted on 2022-03-12?", "answer": "66"}
+{"qid": "hard-flight-0206", "question": "How many flights were diverted on 2022-03-19?", "answer": "53"}
+{"qid": "hard-flight-0207", "question": "How many flights were diverted on 2022-07-11?", "answer": "43"}
+{"qid": "hard-flight-0208", "question": "How many flights were diverted on 2022-07-06?", "answer": "50"}
+{"qid": "hard-flight-0209", "question": "How many flights were diverted on 2022-06-17?", "answer": "72"}
+{"qid": "hard-flight-0210", "question": "How many flights were diverted on 2022-06-04?", "answer": "18"}
+{"qid": "hard-flight-0212", "question": "How many flights were diverted on 2022-05-10?", "answer": "14"}
+{"qid": "hard-flight-0213", "question": "How many flights were diverted on 2022-01-13?", "answer": "14"}
+{"qid": "hard-flight-0214", "question": "How many flights were diverted on 2022-04-25?", "answer": "77"}
+{"qid": "hard-flight-0215", "question": "How many flights were diverted on 2022-05-03?", "answer": "31"}
+{"qid": "hard-flight-0216", "question": "How many flights were diverted on 2022-06-19?", "answer": "41"}
+{"qid": "hard-flight-0217", "question": "How many flights were diverted on 2022-04-26?", "answer": "30"}
+{"qid": "hard-flight-0218", "question": "How many flights were diverted on 2022-05-31?", "answer": "22"}
+{"qid": "hard-flight-0219", "question": "How many flights were diverted on 2022-03-06?", "answer": "78"}
+{"qid": "hard-flight-0220", "question": "How many flights were diverted on 2022-01-08?", "answer": "73"}
+{"qid": "hard-flight-0221", "question": "How many flights were diverted on 2022-01-03?", "answer": "72"}
+{"qid": "hard-flight-0222", "question": "How many flights were diverted on 2022-06-30?", "answer": "20"}
+{"qid": "hard-flight-0223", "question": "How many flights were diverted on 2022-04-21?", "answer": "32"}
+{"qid": "hard-flight-0224", "question": "How many flights were diverted on 2022-01-16?", "answer": "51"}
+{"qid": "hard-flight-0225", "question": "How many flights were diverted on 2022-03-26?", "answer": "15"}
+{"qid": "hard-flight-0226", "question": "How many flights were diverted on 2022-03-10?", "answer": "46"}
+{"qid": "hard-flight-0228", "question": "How many flights were diverted on 2022-06-16?", "answer": "88"}
+{"qid": "hard-flight-0229", "question": "How many flights were diverted on 2022-02-01?", "answer": "15"}
+{"qid": "hard-flight-0230", "question": "How many flights were diverted on 2022-06-28?", "answer": "19"}
+{"qid": "hard-flight-0231", "question": "How many flights were diverted on 2022-07-28?", "answer": "54"}
+{"qid": "hard-flight-0233", "question": "How many flights were diverted on 2022-03-31?", "answer": "65"}
+{"qid": "hard-flight-0234", "question": "How many flights were diverted on 2022-02-27?", "answer": "14"}
+{"qid": "hard-flight-0235", "question": "How many flights were diverted on 2022-06-01?", "answer": "189"}
+{"qid": "hard-flight-0237", "question": "How many flights were diverted on 2022-04-30?", "answer": "90"}
+{"qid": "hard-flight-0238", "question": "How many flights were diverted on 2022-02-05?", "answer": "12"}
+{"qid": "hard-flight-0239", "question": "How many flights were diverted on 2022-03-05?", "answer": "37"}
+{"qid": "hard-flight-0240", "question": "How many flights were diverted on 2022-07-20?", "answer": "89"}
+{"qid": "hard-flight-0242", "question": "How many flights were diverted on 2022-06-29?", "answer": "46"}
+{"qid": "hard-flight-0243", "question": "How many flights were diverted on 2022-02-14?", "answer": "15"}
+{"qid": "hard-flight-0244", "question": "How many flights were diverted on 2022-05-07?", "answer": "30"}
+{"qid": "hard-flight-0245", "question": "How many flights were diverted on 2022-07-16?", "answer": "106"}
+{"qid": "hard-flight-0246", "question": "How many flights were diverted on 2022-02-19?", "answer": "24"}
+{"qid": "hard-flight-0247", "question": "How many flights were diverted on 2022-02-28?", "answer": "19"}
+{"qid": "hard-flight-0248", "question": "How many flights were diverted on 2022-06-06?", "answer": "82"}
+{"qid": "hard-flight-0250", "question": "How many flights were diverted on 2022-01-18?", "answer": "4"}
+{"qid": "hard-flight-0251", "question": "How many flights were diverted on 2022-04-15?", "answer": "54"}
+{"qid": "hard-flight-0252", "question": "How many flights were diverted on 2022-03-15?", "answer": "30"}
+{"qid": "hard-flight-0253", "question": "How many flights were diverted on 2022-06-10?", "answer": "30"}
+{"qid": "hard-flight-0254", "question": "How many flights were diverted on 2022-02-21?", "answer": "35"}
+{"qid": "hard-flight-0255", "question": "How many flights were diverted on 2022-04-27?", "answer": "41"}
+{"qid": "hard-flight-0257", "question": "How many flights were diverted on 2022-02-23?", "answer": "38"}
+{"qid": "hard-flight-0258", "question": "How many flights were diverted on 2022-01-28?", "answer": "147"}
+{"qid": "hard-flight-0259", "question": "How many flights were diverted on 2022-04-03?", "answer": "39"}
+{"qid": "hard-flight-0263", "question": "How many flights were diverted on 2022-06-05?", "answer": "22"}
+{"qid": "hard-flight-0264", "question": "How many flights were diverted on 2022-04-01?", "answer": "59"}
+{"qid": "hard-flight-0265", "question": "How many flights were diverted on 2022-07-29?", "answer": "98"}
+{"qid": "hard-flight-0266", "question": "How many flights were diverted on 2022-07-13?", "answer": "39"}
+{"qid": "hard-flight-0269", "question": "How many flights were diverted on 2022-01-31?", "answer": "6"}
+{"qid": "hard-flight-0270", "question": "How many flights were diverted on 2022-01-29?", "answer": "18"}
+{"qid": "hard-flight-0273", "question": "How many flights were diverted on 2022-05-20?", "answer": "130"}
+{"qid": "hard-flight-0274", "question": "How many flights were diverted on 2022-07-30?", "answer": "43"}
+{"qid": "hard-flight-0277", "question": "How many flights were diverted on 2022-05-28?", "answer": "78"}
+{"qid": "hard-flight-0278", "question": "How many flights were diverted on 2022-03-02?", "answer": "23"}
+{"qid": "hard-flight-0280", "question": "How many flights were diverted on 2022-04-24?", "answer": "57"}
+{"qid": "hard-flight-0282", "question": "How many flights were diverted on 2022-07-12?", "answer": "56"}
+{"qid": "hard-flight-0283", "question": "How many flights were diverted on 2022-07-07?", "answer": "37"}
+{"qid": "hard-flight-0284", "question": "How many flights were diverted on 2022-03-07?", "answer": "75"}
+{"qid": "hard-flight-0286", "question": "How many flights were diverted on 2022-02-24?", "answer": "58"}
+{"qid": "hard-flight-0288", "question": "How many flights were diverted on 2022-03-11?", "answer": "59"}
+{"qid": "hard-flight-0290", "question": "How many flights were diverted on 2022-04-04?", "answer": "58"}
+{"qid": "hard-flight-0292", "question": "How many flights were diverted on 2022-05-08?", "answer": "32"}
+{"qid": "hard-flight-0293", "question": "How many flights were diverted on 2022-06-09?", "answer": "96"}
+{"qid": "hard-flight-0295", "question": "How many flights were diverted on 2022-03-21?", "answer": "69"}
+{"qid": "hard-flight-0296", "question": "How many flights were diverted on 2022-04-11?", "answer": "33"}
+{"qid": "hard-flight-0297", "question": "How many flights were diverted on 2022-01-06?", "answer": "38"}
+{"qid": "hard-flight-0298", "question": "How many flights were diverted on 2022-04-16?", "answer": "39"}
+{"qid": "hard-flight-0299", "question": "How many flights were diverted on 2022-03-27?", "answer": "12"}
+{"qid": "hard-flight-0300", "question": "How many flights with a distance greater than 500 miles on 2022-04-30?", "answer": "11039"}
+{"qid": "hard-flight-0301", "question": "How many flights with a distance greater than 500 miles on 2022-06-02?", "answer": "12408"}
+{"qid": "hard-flight-0302", "question": "How many flights with a distance greater than 500 miles on 2022-06-28?", "answer": "11922"}
+{"qid": "hard-flight-0303", "question": "How many flights with a distance greater than 500 miles on 2022-05-29?", "answer": "11885"}
+{"qid": "hard-flight-0305", "question": "How many flights with a distance greater than 500 miles on 2022-06-17?", "answer": "12700"}
+{"qid": "hard-flight-0306", "question": "How many flights with a distance greater than 500 miles on 2022-02-16?", "answer": "11339"}
+{"qid": "hard-flight-0307", "question": "How many flights with a distance greater than 500 miles on 2022-01-14?", "answer": "12090"}
+{"qid": "hard-flight-0308", "question": "How many flights with a distance greater than 500 miles on 2022-03-17?", "answer": "12679"}
+{"qid": "hard-flight-0309", "question": "How many flights with a distance greater than 500 miles on 2022-03-06?", "answer": "12163"}
+{"qid": "hard-flight-0310", "question": "How many flights with a distance greater than 500 miles on 2022-07-23?", "answer": "11999"}
+{"qid": "hard-flight-0311", "question": "How many flights with a distance greater than 500 miles on 2022-07-10?", "answer": "12619"}
+{"qid": "hard-flight-0312", "question": "How many flights with a distance greater than 500 miles on 2022-04-21?", "answer": "12518"}
+{"qid": "hard-flight-0313", "question": "How many flights with a distance greater than 500 miles on 2022-05-15?", "answer": "12323"}
+{"qid": "hard-flight-0314", "question": "How many flights with a distance greater than 500 miles on 2022-06-10?", "answer": "12635"}
+{"qid": "hard-flight-0315", "question": "How many flights with a distance greater than 500 miles on 2022-01-26?", "answer": "10797"}
+{"qid": "hard-flight-0316", "question": "How many flights with a distance greater than 500 miles on 2022-03-22?", "answer": "11501"}
+{"qid": "hard-flight-0317", "question": "How many flights with a distance greater than 500 miles on 2022-06-27?", "answer": "12635"}
+{"qid": "hard-flight-0318", "question": "How many flights with a distance greater than 500 miles on 2022-02-06?", "answer": "11863"}
+{"qid": "hard-flight-0319", "question": "How many flights with a distance greater than 500 miles on 2022-05-05?", "answer": "12422"}
+{"qid": "hard-flight-0320", "question": "How many flights with a distance greater than 500 miles on 2022-05-25?", "answer": "11790"}
+{"qid": "hard-flight-0321", "question": "How many flights with a distance greater than 500 miles on 2022-02-04?", "answer": "12075"}
+{"qid": "hard-flight-0322", "question": "How many flights with a distance greater than 500 miles on 2022-06-22?", "answer": "12220"}
+{"qid": "hard-flight-0323", "question": "How many flights with a distance greater than 500 miles on 2022-06-14?", "answer": "11941"}
+{"qid": "hard-flight-0324", "question": "How many flights with a distance greater than 500 miles on 2022-06-18?", "answer": "11921"}
+{"qid": "hard-flight-0326", "question": "How many flights with a distance greater than 500 miles on 2022-02-08?", "answer": "10625"}
+{"qid": "hard-flight-0327", "question": "How many flights with a distance greater than 500 miles on 2022-04-29?", "answer": "12499"}
+{"qid": "hard-flight-0328", "question": "How many flights with a distance greater than 500 miles on 2022-03-25?", "answer": "12741"}
+{"qid": "hard-flight-0329", "question": "How many flights with a distance greater than 500 miles on 2022-05-31?", "answer": "11680"}
+{"qid": "hard-flight-0330", "question": "How many flights with a distance greater than 500 miles on 2022-05-17?", "answer": "11582"}
+{"qid": "hard-flight-0331", "question": "How many flights with a distance greater than 500 miles on 2022-03-05?", "answer": "10968"}
+{"qid": "hard-flight-0332", "question": "How many flights with a distance greater than 500 miles on 2022-04-01?", "answer": "12706"}
+{"qid": "hard-flight-0333", "question": "How many flights with a distance greater than 500 miles on 2022-02-12?", "answer": "10298"}
+{"qid": "hard-flight-0334", "question": "How many flights with a distance greater than 500 miles on 2022-06-13?", "answer": "12607"}
+{"qid": "hard-flight-0337", "question": "How many flights with a distance greater than 500 miles on 2022-04-16?", "answer": "11059"}
+{"qid": "hard-flight-0338", "question": "How many flights with a distance greater than 500 miles on 2022-02-15?", "answer": "10777"}
+{"qid": "hard-flight-0339", "question": "How many flights with a distance greater than 500 miles on 2022-05-13?", "answer": "12508"}
+{"qid": "hard-flight-0340", "question": "How many flights with a distance greater than 500 miles on 2022-06-29?", "answer": "12149"}
+{"qid": "hard-flight-0341", "question": "How many flights with a distance greater than 500 miles on 2022-07-18?", "answer": "12744"}
+{"qid": "hard-flight-0342", "question": "How many flights with a distance greater than 500 miles on 2022-07-24?", "answer": "12618"}
+{"qid": "hard-flight-0343", "question": "How many flights with a distance greater than 500 miles on 2022-05-30?", "answer": "12486"}
+{"qid": "hard-flight-0344", "question": "How many flights with a distance greater than 500 miles on 2022-03-13?", "answer": "12482"}
+{"qid": "hard-flight-0345", "question": "How many flights with a distance greater than 500 miles on 2022-01-30?", "answer": "11825"}
+{"qid": "hard-flight-0346", "question": "How many flights with a distance greater than 500 miles on 2022-04-23?", "answer": "11027"}
+{"qid": "hard-flight-0347", "question": "How many flights with a distance greater than 500 miles on 2022-06-24?", "answer": "12696"}
+{"qid": "hard-flight-0350", "question": "How many flights with a distance greater than 500 miles on 2022-07-11?", "answer": "12740"}
+{"qid": "hard-flight-0351", "question": "How many flights with a distance greater than 500 miles on 2022-01-24?", "answer": "11750"}
+{"qid": "hard-flight-0352", "question": "How many flights with a distance greater than 500 miles on 2022-07-04?", "answer": "12154"}
+{"qid": "hard-flight-0353", "question": "How many flights with a distance greater than 500 miles on 2022-02-11?", "answer": "12195"}
+{"qid": "hard-flight-0354", "question": "How many flights with a distance greater than 500 miles on 2022-03-09?", "answer": "11426"}
+{"qid": "hard-flight-0355", "question": "How many flights with a distance greater than 500 miles on 2022-05-02?", "answer": "12412"}
+{"qid": "hard-flight-0356", "question": "How many flights with a distance greater than 500 miles on 2022-04-19?", "answer": "11649"}
+{"qid": "hard-flight-0359", "question": "How many flights with a distance greater than 500 miles on 2022-04-27?", "answer": "11823"}
+{"qid": "hard-flight-0361", "question": "How many flights with a distance greater than 500 miles on 2022-04-12?", "answer": "11669"}
+{"qid": "hard-flight-0362", "question": "How many flights with a distance greater than 500 miles on 2022-01-28?", "answer": "12022"}
+{"qid": "hard-flight-0363", "question": "How many flights with a distance greater than 500 miles on 2022-04-17?", "answer": "12277"}
+{"qid": "hard-flight-0365", "question": "How many flights with a distance greater than 500 miles on 2022-05-12?", "answer": "12487"}
+{"qid": "hard-flight-0366", "question": "How many flights with a distance greater than 500 miles on 2022-06-09?", "answer": "12625"}
+{"qid": "hard-flight-0367", "question": "How many flights with a distance greater than 500 miles on 2022-03-02?", "answer": "11572"}
+{"qid": "hard-flight-0369", "question": "How many flights with a distance greater than 500 miles on 2022-03-29?", "answer": "11444"}
+{"qid": "hard-flight-0370", "question": "How many flights with a distance greater than 500 miles on 2022-01-19?", "answer": "10824"}
+{"qid": "hard-flight-0372", "question": "How many flights with a distance greater than 500 miles on 2022-04-08?", "answer": "12544"}
+{"qid": "hard-flight-0373", "question": "How many flights with a distance greater than 500 miles on 2022-05-06?", "answer": "12438"}
+{"qid": "hard-flight-0377", "question": "How many flights with a distance greater than 500 miles on 2022-03-26?", "answer": "11830"}
+{"qid": "hard-flight-0379", "question": "How many flights with a distance greater than 500 miles on 2022-07-14?", "answer": "12777"}
+{"qid": "hard-flight-0381", "question": "How many flights with a distance greater than 500 miles on 2022-06-26?", "answer": "12584"}
+{"qid": "hard-flight-0382", "question": "How many flights with a distance greater than 500 miles on 2022-02-02?", "answer": "10805"}
+{"qid": "hard-flight-0383", "question": "How many flights with a distance greater than 500 miles on 2022-06-15?", "answer": "12155"}
+{"qid": "hard-flight-0385", "question": "How many flights with a distance greater than 500 miles on 2022-07-28?", "answer": "12783"}
+{"qid": "hard-flight-0387", "question": "How many flights with a distance greater than 500 miles on 2022-01-31?", "answer": "11745"}
+{"qid": "hard-flight-0388", "question": "How many flights with a distance greater than 500 miles on 2022-03-08?", "answer": "11144"}
+{"qid": "hard-flight-0389", "question": "How many flights with a distance greater than 500 miles on 2022-03-21?", "answer": "12589"}
+{"qid": "hard-flight-0392", "question": "How many flights with a distance greater than 500 miles on 2022-03-24?", "answer": "12687"}
+{"qid": "hard-flight-0393", "question": "How many flights with a distance greater than 500 miles on 2022-07-22?", "answer": "12770"}
+{"qid": "hard-flight-0394", "question": "How many flights with a distance greater than 500 miles on 2022-02-22?", "answer": "11455"}
+{"qid": "hard-flight-0397", "question": "How many flights with a distance greater than 500 miles on 2022-07-13?", "answer": "12163"}
+{"qid": "hard-flight-0398", "question": "How many flights with a distance greater than 500 miles on 2022-05-08?", "answer": "12293"}
+{"qid": "hard-flight-0399", "question": "How many flights with a distance greater than 500 miles on 2022-02-05?", "answer": "10220"}
+{"qid": "hard-flight-0400", "question": "What is the average airtime of the flights from GSP to EWR host by Republic Airlines?", "answer": "90.2 minutes"}
+{"qid": "hard-flight-0401", "question": "What is the average airtime of the flights from MFR to LAS host by Allegiant Air?", "answer": "83.5 minutes"}
+{"qid": "hard-flight-0402", "question": "What is the average airtime of the flights from ELP to ATL host by Delta Air Lines Inc.?", "answer": "151.7 minutes"}
+{"qid": "hard-flight-0403", "question": "What is the average airtime of the flights from RSW to IAH host by United Air Lines Inc.?", "answer": "129.8 minutes"}
+{"qid": "hard-flight-0404", "question": "What is the average airtime of the flights from BHM to ORD host by Air Wisconsin Airlines Corp?", "answer": "101.3 minutes"}
+{"qid": "hard-flight-0405", "question": "What is the average airtime of the flights from BIS to MSP host by SkyWest Airlines Inc.?", "answer": "59.5 minutes"}
+{"qid": "hard-flight-0406", "question": "What is the average airtime of the flights from PHL to SFO host by United Air Lines Inc.?", "answer": "338.5 minutes"}
+{"qid": "hard-flight-0407", "question": "What is the average airtime of the flights from FAT to PDX host by Horizon Air?", "answer": "99.3 minutes"}
+{"qid": "hard-flight-0408", "question": "What is the average airtime of the flights from ESC to DTW host by SkyWest Airlines Inc.?", "answer": "49.5 minutes"}
+{"qid": "hard-flight-0409", "question": "What is the average airtime of the flights from DEN to PHL host by American Airlines Inc.?", "answer": "181.3 minutes"}
+{"qid": "hard-flight-0410", "question": "What is the average airtime of the flights from TLH to DFW host by Mesa Airlines Inc.?", "answer": "120.2 minutes"}
+{"qid": "hard-flight-0411", "question": "What is the average airtime of the flights from VLD to ATL host by Endeavor Air Inc.?", "answer": "46.9 minutes"}
+{"qid": "hard-flight-0412", "question": "What is the average airtime of the flights from CID to ATL host by Delta Air Lines Inc.?", "answer": "92.0 minutes"}
+{"qid": "hard-flight-0413", "question": "What is the average airtime of the flights from PSP to BOS host by JetBlue Airways?", "answer": "275.8 minutes"}
+{"qid": "hard-flight-0414", "question": "What is the average airtime of the flights from LIT to CLT host by Comair Inc.?", "answer": "87.2 minutes"}
+{"qid": "hard-flight-0415", "question": "What is the average airtime of the flights from RDM to LAS host by Allegiant Air?", "answer": "91.9 minutes"}
+{"qid": "hard-flight-0416", "question": "What is the average airtime of the flights from RDU to SJU host by JetBlue Airways?", "answer": "173.0 minutes"}
+{"qid": "hard-flight-0417", "question": "What is the average airtime of the flights from CLE to SLC host by Delta Air Lines Inc.?", "answer": "232.0 minutes"}
+{"qid": "hard-flight-0418", "question": "What is the average airtime of the flights from TUS to PAE host by Horizon Air?", "answer": "182.1 minutes"}
+{"qid": "hard-flight-0419", "question": "What is the average airtime of the flights from SFB to GSP host by Allegiant Air?", "answer": "61.5 minutes"}
+{"qid": "hard-flight-0420", "question": "What is the average airtime of the flights from ITH to DTW host by Endeavor Air Inc.?", "answer": "62.1 minutes"}
+{"qid": "hard-flight-0421", "question": "What is the average airtime of the flights from RSW to DFW host by American Airlines Inc.?", "answer": "149.4 minutes"}
+{"qid": "hard-flight-0422", "question": "What is the average airtime of the flights from MFR to SFO host by United Air Lines Inc.?", "answer": "56.7 minutes"}
+{"qid": "hard-flight-0423", "question": "What is the average airtime of the flights from ALB to LGA host by Delta Air Lines Inc.?", "answer": "31.2 minutes"}
+{"qid": "hard-flight-0424", "question": "What is the average airtime of the flights from SRQ to CLT host by Comair Inc.?", "answer": "83.0 minutes"}
+{"qid": "hard-flight-0425", "question": "What is the average airtime of the flights from CMH to JFK host by Endeavor Air Inc.?", "answer": "82.4 minutes"}
+{"qid": "hard-flight-0426", "question": "What is the average airtime of the flights from LIH to OGG host by Hawaiian Airlines Inc.?", "answer": "34.2 minutes"}
+{"qid": "hard-flight-0427", "question": "What is the average airtime of the flights from TYS to ORD host by Air Wisconsin Airlines Corp?", "answer": "81.6 minutes"}
+{"qid": "hard-flight-0428", "question": "What is the average airtime of the flights from CLE to LAS host by Southwest Airlines Co.?", "answer": "249.5 minutes"}
+{"qid": "hard-flight-0429", "question": "What is the average airtime of the flights from ATL to SEA host by Alaska Airlines Inc.?", "answer": "296.0 minutes"}
+{"qid": "hard-flight-0430", "question": "What is the average airtime of the flights from PVD to EWR host by GoJet Airlines, LLC d/b/a United Express?", "answer": "45.8 minutes"}
+{"qid": "hard-flight-0431", "question": "What is the average airtime of the flights from MFE to IAH host by United Air Lines Inc.?", "answer": "52.3 minutes"}
+{"qid": "hard-flight-0432", "question": "What is the average airtime of the flights from HRL to DEN host by Frontier Airlines Inc.?", "answer": "138.8 minutes"}
+{"qid": "hard-flight-0433", "question": "What is the average airtime of the flights from OAK to SEA host by Horizon Air?", "answer": "100.7 minutes"}
+{"qid": "hard-flight-0434", "question": "What is the average airtime of the flights from HRL to IAH host by Commutair Aka Champlain Enterprises, Inc.?", "answer": "54.0 minutes"}
+{"qid": "hard-flight-0435", "question": "What is the average airtime of the flights from KOA to LAX host by Hawaiian Airlines Inc.?", "answer": "296.1 minutes"}
+{"qid": "hard-flight-0436", "question": "What is the average airtime of the flights from BUF to CLT host by American Airlines Inc.?", "answer": "85.1 minutes"}
+{"qid": "hard-flight-0437", "question": "What is the average airtime of the flights from MRY to SAN host by Horizon Air?", "answer": "59.5 minutes"}
+{"qid": "hard-flight-0438", "question": "What is the average airtime of the flights from PBI to IAD host by Mesa Airlines Inc.?", "answer": "123.4 minutes"}
+{"qid": "hard-flight-0439", "question": "What is the average airtime of the flights from PIT to LGA host by Endeavor Air Inc.?", "answer": "57.9 minutes"}
+{"qid": "hard-flight-0440", "question": "What is the average airtime of the flights from AVL to BOS host by Republic Airlines?", "answer": "107.6 minutes"}
+{"qid": "hard-flight-0441", "question": "What is the average airtime of the flights from SYR to ORD host by Envoy Air?", "answer": "100.6 minutes"}
+{"qid": "hard-flight-0442", "question": "What is the average airtime of the flights from RDU to LAS host by Delta Air Lines Inc.?", "answer": "267.9 minutes"}
+{"qid": "hard-flight-0443", "question": "What is the average airtime of the flights from RAP to CLT host by American Airlines Inc.?", "answer": "164.3 minutes"}
+{"qid": "hard-flight-0444", "question": "What is the average airtime of the flights from MCO to MSP host by Delta Air Lines Inc.?", "answer": "180.8 minutes"}
+{"qid": "hard-flight-0445", "question": "What is the average airtime of the flights from OGG to LIH host by Hawaiian Airlines Inc.?", "answer": "34.0 minutes"}
+{"qid": "hard-flight-0446", "question": "What is the average airtime of the flights from GRR to LGA host by Endeavor Air Inc.?", "answer": "86.3 minutes"}
+{"qid": "hard-flight-0447", "question": "What is the average airtime of the flights from EYW to PHL host by Republic Airlines?", "answer": "151.1 minutes"}
+{"qid": "hard-flight-0448", "question": "What is the average airtime of the flights from MAF to DFW host by Mesa Airlines Inc.?", "answer": "51.3 minutes"}
+{"qid": "hard-flight-0449", "question": "What is the average airtime of the flights from BUF to DCA host by Comair Inc.?", "answer": "54.9 minutes"}
+{"qid": "hard-flight-0450", "question": "What is the average airtime of the flights from DAY to CLT host by Capital Cargo International?", "answer": "65.6 minutes"}
+{"qid": "hard-flight-0451", "question": "What is the average airtime of the flights from TYS to DEN host by Frontier Airlines Inc.?", "answer": "166.5 minutes"}
+{"qid": "hard-flight-0452", "question": "What is the average airtime of the flights from HRL to MCO host by Frontier Airlines Inc.?", "answer": "127.2 minutes"}
+{"qid": "hard-flight-0453", "question": "What is the average airtime of the flights from VPS to IAH host by Commutair Aka Champlain Enterprises, Inc.?", "answer": "95.5 minutes"}
+{"qid": "hard-flight-0454", "question": "What is the average airtime of the flights from SBA to PDX host by Horizon Air?", "answer": "114.1 minutes"}
+{"qid": "hard-flight-0455", "question": "What is the average airtime of the flights from GPT to DFW host by SkyWest Airlines Inc.?", "answer": "84.3 minutes"}
+{"qid": "hard-flight-0456", "question": "What is the average airtime of the flights from MSN to PHL host by Capital Cargo International?", "answer": "104.1 minutes"}
+{"qid": "hard-flight-0457", "question": "What is the average airtime of the flights from MSN to ORD host by Air Wisconsin Airlines Corp?", "answer": "29.9 minutes"}
+{"qid": "hard-flight-0458", "question": "What is the average airtime of the flights from RNO to PHX host by American Airlines Inc.?", "answer": "82.7 minutes"}
+{"qid": "hard-flight-0459", "question": "What is the average airtime of the flights from IAH to PHL host by Comair Inc.?", "answer": "158.4 minutes"}
+{"qid": "hard-flight-0460", "question": "What is the average airtime of the flights from CVG to ORD host by Republic Airlines?", "answer": "51.8 minutes"}
+{"qid": "hard-flight-0461", "question": "What is the average airtime of the flights from PSE to MCO host by JetBlue Airways?", "answer": "162.7 minutes"}
+{"qid": "hard-flight-0462", "question": "What is the average airtime of the flights from PNS to DFW host by SkyWest Airlines Inc.?", "answer": "108.8 minutes"}
+{"qid": "hard-flight-0463", "question": "What is the average airtime of the flights from PWM to RSW host by Frontier Airlines Inc.?", "answer": "198.1 minutes"}
+{"qid": "hard-flight-0464", "question": "What is the average airtime of the flights from GPT to IAH host by Commutair Aka Champlain Enterprises, Inc.?", "answer": "68.2 minutes"}
+{"qid": "hard-flight-0465", "question": "What is the average airtime of the flights from RIC to SFB host by Allegiant Air?", "answer": "99.9 minutes"}
+{"qid": "hard-flight-0466", "question": "What is the average airtime of the flights from RIC to IAD host by Air Wisconsin Airlines Corp?", "answer": "26.8 minutes"}
+{"qid": "hard-flight-0467", "question": "What is the average airtime of the flights from JFK to LAX host by United Air Lines Inc.?", "answer": "328.5 minutes"}
+{"qid": "hard-flight-0468", "question": "What is the average airtime of the flights from FAR to MSP host by Delta Air Lines Inc.?", "answer": "38.7 minutes"}
+{"qid": "hard-flight-0469", "question": "What is the average airtime of the flights from HNL to JFK host by Hawaiian Airlines Inc.?", "answer": "546.2 minutes"}
+{"qid": "hard-flight-0470", "question": "What is the average airtime of the flights from ICT to VPS host by Allegiant Air?", "answer": "104.1 minutes"}
+{"qid": "hard-flight-0471", "question": "What is the average airtime of the flights from MOB to CLT host by Capital Cargo International?", "answer": "75.7 minutes"}
+{"qid": "hard-flight-0472", "question": "What is the average airtime of the flights from TLH to ATL host by Endeavor Air Inc.?", "answer": "44.1 minutes"}
+{"qid": "hard-flight-0473", "question": "What is the average airtime of the flights from BUF to LAX host by JetBlue Airways?", "answer": "290.1 minutes"}
+{"qid": "hard-flight-0474", "question": "What is the average airtime of the flights from IAH to JFK host by JetBlue Airways?", "answer": "179.9 minutes"}
+{"qid": "hard-flight-0475", "question": "What is the average airtime of the flights from SDF to LAX host by Delta Air Lines Inc.?", "answer": "238.5 minutes"}
+{"qid": "hard-flight-0476", "question": "What is the average airtime of the flights from ICT to ORD host by Air Wisconsin Airlines Corp?", "answer": "86.7 minutes"}
+{"qid": "hard-flight-0477", "question": "What is the average airtime of the flights from BTV to DEN host by Frontier Airlines Inc.?", "answer": "231.1 minutes"}
+{"qid": "hard-flight-0478", "question": "What is the average airtime of the flights from PIA to ORD host by SkyWest Airlines Inc.?", "answer": "35.0 minutes"}
+{"qid": "hard-flight-0479", "question": "What is the average airtime of the flights from DTW to EWR host by United Air Lines Inc.?", "answer": "69.9 minutes"}
+{"qid": "hard-flight-0480", "question": "What is the average airtime of the flights from RSW to LGA host by Delta Air Lines Inc.?", "answer": "141.5 minutes"}
+{"qid": "hard-flight-0481", "question": "What is the average airtime of the flights from RSW to DEN host by United Air Lines Inc.?", "answer": "221.9 minutes"}
+{"qid": "hard-flight-0482", "question": "What is the average airtime of the flights from CID to LAS host by Allegiant Air?", "answer": "182.1 minutes"}
+{"qid": "hard-flight-0483", "question": "What is the average airtime of the flights from ICT to SEA host by Horizon Air?", "answer": "209.3 minutes"}
+{"qid": "hard-flight-0484", "question": "What is the average airtime of the flights from FLL to ORD host by United Air Lines Inc.?", "answer": "165.9 minutes"}
+{"qid": "hard-flight-0485", "question": "What is the average airtime of the flights from HRL to DFW host by SkyWest Airlines Inc.?", "answer": "72.6 minutes"}
+{"qid": "hard-flight-0486", "question": "What is the average airtime of the flights from PPG to HNL host by Hawaiian Airlines Inc.?", "answer": "306.7 minutes"}
+{"qid": "hard-flight-0487", "question": "What is the average airtime of the flights from EUG to PHX host by Mesa Airlines Inc.?", "answer": "123.0 minutes"}
+{"qid": "hard-flight-0488", "question": "What is the average airtime of the flights from CVG to MCO host by Southwest Airlines Co.?", "answer": "103.8 minutes"}
+{"qid": "hard-flight-0489", "question": "What is the average airtime of the flights from MFE to IAH host by Commutair Aka Champlain Enterprises, Inc.?", "answer": "54.4 minutes"}
+{"qid": "hard-flight-0490", "question": "What is the average airtime of the flights from PVD to PHL host by Comair Inc.?", "answer": "55.9 minutes"}
+{"qid": "hard-flight-0491", "question": "What is the average airtime of the flights from SFO to LAS host by Southwest Airlines Co.?", "answer": "66.1 minutes"}
+{"qid": "hard-flight-0492", "question": "What is the average airtime of the flights from SEA to GTF host by Horizon Air?", "answer": "84.3 minutes"}
+{"qid": "hard-flight-0493", "question": "What is the average airtime of the flights from LAX to IAH host by Spirit Air Lines?", "answer": "166.2 minutes"}
+{"qid": "hard-flight-0494", "question": "What is the average airtime of the flights from PHL to IAD host by Mesa Airlines Inc.?", "answer": "38.7 minutes"}
+{"qid": "hard-flight-0495", "question": "What is the average airtime of the flights from SIT to KTN host by Alaska Airlines Inc.?", "answer": "35.5 minutes"}
+{"qid": "hard-flight-0496", "question": "What is the average airtime of the flights from FSD to ORD host by Republic Airlines?", "answer": "68.3 minutes"}
+{"qid": "hard-flight-0497", "question": "What is the average airtime of the flights from LFT to CLT host by Comair Inc.?", "answer": "98.7 minutes"}
+{"qid": "hard-flight-0498", "question": "What is the average airtime of the flights from MAF to DFW host by Envoy Air?", "answer": "51.6 minutes"}
+{"qid": "hard-flight-0499", "question": "What is the average airtime of the flights from FCA to DEN host by Frontier Airlines Inc.?", "answer": "107.4 minutes"}
+{"qid": "hard-flight-0500", "question": "How many flights from BTV to IAD host by Commutair Aka Champlain Enterprises, Inc.?", "answer": 8}
+{"qid": "hard-flight-0501", "question": "How many flights from BTV to IAD host by Mesa Airlines Inc.?", "answer": 3}
+{"qid": "hard-flight-0502", "question": "How many flights from SAT to DAL host by Southwest Airlines Co.?", "answer": 81}
+{"qid": "hard-flight-0503", "question": "How many flights from GJT to DEN host by Commutair Aka Champlain Enterprises, Inc.?", "answer": 11}
+{"qid": "hard-flight-0504", "question": "How many flights from TYS to ORD host by Air Wisconsin Airlines Corp?", "answer": 11}
+{"qid": "hard-flight-0505", "question": "How many flights from MCI to TPA host by Spirit Air Lines?", "answer": 1}
+{"qid": "hard-flight-0506", "question": "How many flights from MEM to LAS host by Spirit Air Lines?", "answer": 1}
+{"qid": "hard-flight-0507", "question": "How many flights from OAK to LIH host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0508", "question": "How many flights from DCA to DEN host by Frontier Airlines Inc.?", "answer": 3}
+{"qid": "hard-flight-0509", "question": "How many flights from AUS to HNL host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0510", "question": "How many flights from PSP to DSM host by Allegiant Air?", "answer": 4}
+{"qid": "hard-flight-0511", "question": "How many flights from MDT to ORD host by Air Wisconsin Airlines Corp?", "answer": 12}
+{"qid": "hard-flight-0512", "question": "How many flights from RDM to SEA host by Horizon Air?", "answer": 10}
+{"qid": "hard-flight-0513", "question": "How many flights from CHA to CLT host by Capital Cargo International?", "answer": 16}
+{"qid": "hard-flight-0514", "question": "How many flights from CHO to IAD host by Air Wisconsin Airlines Corp?", "answer": 8}
+{"qid": "hard-flight-0515", "question": "How many flights from LEX to ORD host by Capital Cargo International?", "answer": 6}
+{"qid": "hard-flight-0516", "question": "How many flights from BDL to MCO host by Spirit Air Lines?", "answer": 8}
+{"qid": "hard-flight-0517", "question": "How many flights from ORD to LEX host by Air Wisconsin Airlines Corp?", "answer": 22}
+{"qid": "hard-flight-0518", "question": "How many flights from MSP to IAH host by United Air Lines Inc.?", "answer": 6}
+{"qid": "hard-flight-0519", "question": "How many flights from MEM to ORD host by Air Wisconsin Airlines Corp?", "answer": 7}
+{"qid": "hard-flight-0520", "question": "How many flights from SYR to DFW host by American Airlines Inc.?", "answer": 3}
+{"qid": "hard-flight-0521", "question": "How many flights from ABQ to PDX host by Alaska Airlines Inc.?", "answer": 4}
+{"qid": "hard-flight-0522", "question": "How many flights from SJC to OGG host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0523", "question": "How many flights from DAY to PHL host by Capital Cargo International?", "answer": 6}
+{"qid": "hard-flight-0524", "question": "How many flights from FSD to ORD host by Republic Airlines?", "answer": 2}
+{"qid": "hard-flight-0525", "question": "How many flights from TUL to DEN host by Frontier Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0526", "question": "How many flights from DAY to IAD host by Air Wisconsin Airlines Corp?", "answer": 7}
+{"qid": "hard-flight-0527", "question": "How many flights from BHM to ATL host by Delta Air Lines Inc.?", "answer": 23}
+{"qid": "hard-flight-0528", "question": "How many flights from HSV to ATL host by Delta Air Lines Inc.?", "answer": 18}
+{"qid": "hard-flight-0529", "question": "How many flights from BOI to PHX host by Mesa Airlines Inc.?", "answer": 9}
+{"qid": "hard-flight-0530", "question": "How many flights from TPA to PDX host by Alaska Airlines Inc.?", "answer": 3}
+{"qid": "hard-flight-0531", "question": "How many flights from LAS to OGG host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0532", "question": "How many flights from AEX to IAH host by Commutair Aka Champlain Enterprises, Inc.?", "answer": 3}
+{"qid": "hard-flight-0533", "question": "How many flights from MSN to ORD host by Air Wisconsin Airlines Corp?", "answer": 17}
+{"qid": "hard-flight-0534", "question": "How many flights from PHL to IAD host by Air Wisconsin Airlines Corp?", "answer": 2}
+{"qid": "hard-flight-0535", "question": "How many flights from GFK to MSP host by SkyWest Airlines Inc.?", "answer": 7}
+{"qid": "hard-flight-0536", "question": "How many flights from MYR to PHL host by Capital Cargo International?", "answer": 2}
+{"qid": "hard-flight-0537", "question": "How many flights from ALB to DCA host by Comair Inc.?", "answer": 12}
+{"qid": "hard-flight-0538", "question": "How many flights from RFD to LAS host by Allegiant Air?", "answer": 8}
+{"qid": "hard-flight-0539", "question": "How many flights from STL to SEA host by Alaska Airlines Inc.?", "answer": 6}
+{"qid": "hard-flight-0540", "question": "How many flights from SAN to HNL host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0541", "question": "How many flights from AZA to EUG host by Allegiant Air?", "answer": 13}
+{"qid": "hard-flight-0542", "question": "How many flights from SRQ to DTW host by Delta Air Lines Inc.?", "answer": 3}
+{"qid": "hard-flight-0543", "question": "How many flights from BNA to ORD host by GoJet Airlines, LLC d/b/a United Express?", "answer": 3}
+{"qid": "hard-flight-0544", "question": "How many flights from MCO to HNL host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0545", "question": "How many flights from PIT to IAD host by GoJet Airlines, LLC d/b/a United Express?", "answer": 2}
+{"qid": "hard-flight-0546", "question": "How many flights from ATW to CLT host by Comair Inc.?", "answer": 1}
+{"qid": "hard-flight-0547", "question": "How many flights from YUM to PHX host by Mesa Airlines Inc.?", "answer": 13}
+{"qid": "hard-flight-0548", "question": "How many flights from MGM to CLT host by Capital Cargo International?", "answer": 5}
+{"qid": "hard-flight-0549", "question": "How many flights from MDT to IAD host by Mesa Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0550", "question": "How many flights from MCO to SJU host by JetBlue Airways?", "answer": 10}
+{"qid": "hard-flight-0551", "question": "How many flights from OMA to PHX host by Mesa Airlines Inc.?", "answer": 6}
+{"qid": "hard-flight-0552", "question": "How many flights from PIT to BOS host by JetBlue Airways?", "answer": 9}
+{"qid": "hard-flight-0553", "question": "How many flights from OAK to MSO host by Allegiant Air?", "answer": 2}
+{"qid": "hard-flight-0554", "question": "How many flights from FCA to SLC host by Delta Air Lines Inc.?", "answer": 3}
+{"qid": "hard-flight-0555", "question": "How many flights from CMH to MIA host by American Airlines Inc.?", "answer": 2}
+{"qid": "hard-flight-0556", "question": "How many flights from TYS to DEN host by Frontier Airlines Inc.?", "answer": 3}
+{"qid": "hard-flight-0557", "question": "How many flights from DFW to ORD host by United Air Lines Inc.?", "answer": 13}
+{"qid": "hard-flight-0558", "question": "How many flights from CMI to ORD host by Envoy Air?", "answer": 8}
+{"qid": "hard-flight-0559", "question": "How many flights from STL to MYR host by Southwest Airlines Co.?", "answer": 4}
+{"qid": "hard-flight-0560", "question": "How many flights from GSO to DCA host by Republic Airlines?", "answer": 3}
+{"qid": "hard-flight-0561", "question": "How many flights from MKE to PHL host by Capital Cargo International?", "answer": 3}
+{"qid": "hard-flight-0562", "question": "How many flights from LAX to EWR host by Spirit Air Lines?", "answer": 2}
+{"qid": "hard-flight-0563", "question": "How many flights from GJT to DEN host by Frontier Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0564", "question": "How many flights from SDF to PHX host by Southwest Airlines Co.?", "answer": 10}
+{"qid": "hard-flight-0565", "question": "How many flights from SEA to STL host by Southwest Airlines Co.?", "answer": 2}
+{"qid": "hard-flight-0566", "question": "How many flights from LYH to CLT host by Comair Inc.?", "answer": 5}
+{"qid": "hard-flight-0567", "question": "How many flights from RIC to MSP host by SkyWest Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0568", "question": "How many flights from CVG to ORD host by Republic Airlines?", "answer": 11}
+{"qid": "hard-flight-0569", "question": "How many flights from BGR to EWR host by GoJet Airlines, LLC d/b/a United Express?", "answer": 1}
+{"qid": "hard-flight-0570", "question": "How many flights from VLD to ATL host by Endeavor Air Inc.?", "answer": 4}
+{"qid": "hard-flight-0571", "question": "How many flights from IND to RSW host by Spirit Air Lines?", "answer": 6}
+{"qid": "hard-flight-0572", "question": "How many flights from SJC to LAS host by Alaska Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0573", "question": "How many flights from ELP to LAS host by Allegiant Air?", "answer": 8}
+{"qid": "hard-flight-0574", "question": "How many flights from BUF to ORD host by American Airlines Inc.?", "answer": 4}
+{"qid": "hard-flight-0576", "question": "How many flights from BWI to LAX host by Spirit Air Lines?", "answer": 1}
+{"qid": "hard-flight-0577", "question": "How many flights from SPI to ORD host by Air Wisconsin Airlines Corp?", "answer": 8}
+{"qid": "hard-flight-0578", "question": "How many flights from MSP to OMA host by Endeavor Air Inc.?", "answer": 1}
+{"qid": "hard-flight-0579", "question": "How many flights from GEG to SFO host by Horizon Air?", "answer": 6}
+{"qid": "hard-flight-0580", "question": "How many flights from RDM to LAX host by Horizon Air?", "answer": 2}
+{"qid": "hard-flight-0581", "question": "How many flights from CLL to IAH host by Commutair Aka Champlain Enterprises, Inc.?", "answer": 1}
+{"qid": "hard-flight-0582", "question": "How many flights from DSM to MIA host by Republic Airlines?", "answer": 1}
+{"qid": "hard-flight-0583", "question": "How many flights from SPS to DFW host by Envoy Air?", "answer": 5}
+{"qid": "hard-flight-0584", "question": "How many flights from BUR to JFK host by JetBlue Airways?", "answer": 2}
+{"qid": "hard-flight-0585", "question": "How many flights from PSP to PDX host by Horizon Air?", "answer": 3}
+{"qid": "hard-flight-0586", "question": "How many flights from RSW to HPN host by JetBlue Airways?", "answer": 5}
+{"qid": "hard-flight-0587", "question": "How many flights from DCA to IAH host by United Air Lines Inc.?", "answer": 19}
+{"qid": "hard-flight-0588", "question": "How many flights from ROC to ORD host by Capital Cargo International?", "answer": 9}
+{"qid": "hard-flight-0589", "question": "How many flights from YKM to SEA host by Horizon Air?", "answer": 3}
+{"qid": "hard-flight-0590", "question": "How many flights from DAY to ORD host by Envoy Air?", "answer": 2}
+{"qid": "hard-flight-0591", "question": "How many flights from BOS to HNL host by Hawaiian Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0592", "question": "How many flights from RAP to ORD host by Envoy Air?", "answer": 2}
+{"qid": "hard-flight-0593", "question": "How many flights from ATL to ISP host by Frontier Airlines Inc.?", "answer": 1}
+{"qid": "hard-flight-0594", "question": "How many flights from BRD to MSP host by SkyWest Airlines Inc.?", "answer": 3}
+{"qid": "hard-flight-0595", "question": "How many flights from ONT to HNL host by Hawaiian Airlines Inc.?", "answer": 2}
+{"qid": "hard-flight-0596", "question": "How many flights from JAX to DCA host by Comair Inc.?", "answer": 17}
+{"qid": "hard-flight-0597", "question": "How many flights from KOA to LIH host by Hawaiian Airlines Inc.?", "answer": 2}
+{"qid": "hard-flight-0598", "question": "How many flights from MSN to ORD host by GoJet Airlines, LLC d/b/a United Express?", "answer": 3}
+{"qid": "hard-flight-0599", "question": "How many flights from CLE to LAS host by Southwest Airlines Co.?", "answer": 5}
+{"qid": "hard-flight-0600", "question": "What is the average flight time of AA932?", "answer": "58.5 minutes"}
+{"qid": "hard-flight-0601", "question": "What is the average flight time of UA4181?", "answer": "51.9 minutes"}
+{"qid": "hard-flight-0602", "question": "What is the average flight time of AS1478?", "answer": "136.6 minutes"}
+{"qid": "hard-flight-0603", "question": "What is the average flight time of AA4646?", "answer": "83.7 minutes"}
+{"qid": "hard-flight-0604", "question": "What is the average flight time of AA3822?", "answer": "62.6 minutes"}
+{"qid": "hard-flight-0605", "question": "What is the average flight time of DL5218?", "answer": "37.2 minutes"}
+{"qid": "hard-flight-0606", "question": "What is the average flight time of WN1625?", "answer": "80.9 minutes"}
+{"qid": "hard-flight-0607", "question": "What is the average flight time of UA2038?", "answer": "191.7 minutes"}
+{"qid": "hard-flight-0608", "question": "What is the average flight time of AA6148?", "answer": "59.6 minutes"}
+{"qid": "hard-flight-0609", "question": "What is the average flight time of DL2668?", "answer": "99.6 minutes"}
+{"qid": "hard-flight-0610", "question": "What is the average flight time of AA3310?", "answer": "35.9 minutes"}
+{"qid": "hard-flight-0611", "question": "What is the average flight time of DL4956?", "answer": "44.6 minutes"}
+{"qid": "hard-flight-0612", "question": "What is the average flight time of DL3637?", "answer": "62.0 minutes"}
+{"qid": "hard-flight-0613", "question": "What is the average flight time of UA479?", "answer": "136.1 minutes"}
+{"qid": "hard-flight-0614", "question": "What is the average flight time of NK1250?", "answer": "132.7 minutes"}
+{"qid": "hard-flight-0615", "question": "What is the average flight time of AA4933?", "answer": "42.7 minutes"}
+{"qid": "hard-flight-0616", "question": "What is the average flight time of AA4408?", "answer": "75.2 minutes"}
+{"qid": "hard-flight-0617", "question": "What is the average flight time of UA3445?", "answer": "88.9 minutes"}
+{"qid": "hard-flight-0619", "question": "What is the average flight time of WN3496?", "answer": "81.7 minutes"}
+{"qid": "hard-flight-0620", "question": "What is the average flight time of AA3275?", "answer": "79.3 minutes"}
+{"qid": "hard-flight-0621", "question": "What is the average flight time of AA2887?", "answer": "99.0 minutes"}
+{"qid": "hard-flight-0622", "question": "What is the average flight time of UA2372?", "answer": "133.2 minutes"}
+{"qid": "hard-flight-0623", "question": "What is the average flight time of G45436?", "answer": "81.0 minutes"}
+{"qid": "hard-flight-0624", "question": "What is the average flight time of AA6065?", "answer": "43.1 minutes"}
+{"qid": "hard-flight-0625", "question": "What is the average flight time of AA5251?", "answer": "78.5 minutes"}
+{"qid": "hard-flight-0626", "question": "What is the average flight time of UA1756?", "answer": "173.9 minutes"}
+{"qid": "hard-flight-0627", "question": "What is the average flight time of WN6919?", "answer": "127.7 minutes"}
+{"qid": "hard-flight-0628", "question": "What is the average flight time of DL3704?", "answer": "115.9 minutes"}
+{"qid": "hard-flight-0629", "question": "What is the average flight time of HA533?", "answer": "22.4 minutes"}
+{"qid": "hard-flight-0630", "question": "What is the average flight time of AA3047?", "answer": "89.7 minutes"}
+{"qid": "hard-flight-0631", "question": "What is the average flight time of AA5873?", "answer": "39.2 minutes"}
+{"qid": "hard-flight-0632", "question": "What is the average flight time of UA5246?", "answer": "42.5 minutes"}
+{"qid": "hard-flight-0633", "question": "What is the average flight time of WN3807?", "answer": "92.2 minutes"}
+{"qid": "hard-flight-0634", "question": "What is the average flight time of G41959?", "answer": "126.5 minutes"}
+{"qid": "hard-flight-0635", "question": "What is the average flight time of UA6033?", "answer": "67.1 minutes"}
+{"qid": "hard-flight-0636", "question": "What is the average flight time of DL5321?", "answer": "52.1 minutes"}
+{"qid": "hard-flight-0637", "question": "What is the average flight time of WN2200?", "answer": "81.9 minutes"}
+{"qid": "hard-flight-0638", "question": "What is the average flight time of WN5204?", "answer": "95.0 minutes"}
+{"qid": "hard-flight-0639", "question": "What is the average flight time of WN1884?", "answer": "86.1 minutes"}
+{"qid": "hard-flight-0640", "question": "What is the average flight time of HA180?", "answer": "22.5 minutes"}
+{"qid": "hard-flight-0641", "question": "What is the average flight time of G41077?", "answer": "198.1 minutes"}
+{"qid": "hard-flight-0642", "question": "What is the average flight time of WN6948?", "answer": "87.5 minutes"}
+{"qid": "hard-flight-0643", "question": "What is the average flight time of G42490?", "answer": "132.0 minutes"}
+{"qid": "hard-flight-0644", "question": "What is the average flight time of WN5417?", "answer": "53.0 minutes"}
+{"qid": "hard-flight-0645", "question": "What is the average flight time of WN4177?", "answer": "77.8 minutes"}
+{"qid": "hard-flight-0646", "question": "What is the average flight time of AA4335?", "answer": "49.0 minutes"}
+{"qid": "hard-flight-0647", "question": "What is the average flight time of WN4671?", "answer": "118.2 minutes"}
+{"qid": "hard-flight-0648", "question": "What is the average flight time of AA5398?", "answer": "53.7 minutes"}
+{"qid": "hard-flight-0649", "question": "What is the average flight time of HA142?", "answer": "34.6 minutes"}
+{"qid": "hard-flight-0650", "question": "What is the average flight time of AA4018?", "answer": "48.0 minutes"}
+{"qid": "hard-flight-0651", "question": "What is the average flight time of UA6146?", "answer": "62.7 minutes"}
+{"qid": "hard-flight-0652", "question": "What is the average flight time of NK884?", "answer": "162.1 minutes"}
+{"qid": "hard-flight-0653", "question": "What is the average flight time of WN3209?", "answer": "112.0 minutes"}
+{"qid": "hard-flight-0654", "question": "What is the average flight time of WN6539?", "answer": "96.8 minutes"}
+{"qid": "hard-flight-0655", "question": "What is the average flight time of UA4675?", "answer": "118.2 minutes"}
+{"qid": "hard-flight-0656", "question": "What is the average flight time of WN2968?", "answer": "103.2 minutes"}
+{"qid": "hard-flight-0657", "question": "What is the average flight time of DL4918?", "answer": "73.1 minutes"}
+{"qid": "hard-flight-0658", "question": "What is the average flight time of WN1281?", "answer": "199.1 minutes"}
+{"qid": "hard-flight-0659", "question": "What is the average flight time of WN4278?", "answer": "80.0 minutes"}
+{"qid": "hard-flight-0660", "question": "What is the average flight time of WN5968?", "answer": "91.2 minutes"}
+{"qid": "hard-flight-0661", "question": "What is the average flight time of WN5013?", "answer": "109.7 minutes"}
+{"qid": "hard-flight-0662", "question": "What is the average flight time of UA740?", "answer": "105.5 minutes"}
+{"qid": "hard-flight-0663", "question": "What is the average flight time of DL5051?", "answer": "66.5 minutes"}
+{"qid": "hard-flight-0664", "question": "What is the average flight time of G41244?", "answer": "157.1 minutes"}
+{"qid": "hard-flight-0665", "question": "What is the average flight time of AA2371?", "answer": "52.7 minutes"}
+{"qid": "hard-flight-0666", "question": "What is the average flight time of WN6836?", "answer": "187.3 minutes"}
+{"qid": "hard-flight-0667", "question": "What is the average flight time of WN6669?", "answer": "97.0 minutes"}
+{"qid": "hard-flight-0668", "question": "What is the average flight time of WN2755?", "answer": "69.0 minutes"}
+{"qid": "hard-flight-0669", "question": "What is the average flight time of WN4164?", "answer": "117.1 minutes"}
+{"qid": "hard-flight-0670", "question": "What is the average flight time of G4768?", "answer": "84.6 minutes"}
+{"qid": "hard-flight-0671", "question": "What is the average flight time of G4211?", "answer": "133.6 minutes"}
+{"qid": "hard-flight-0672", "question": "What is the average flight time of DL5334?", "answer": "84.7 minutes"}
+{"qid": "hard-flight-0673", "question": "What is the average flight time of UA2023?", "answer": "168.2 minutes"}
+{"qid": "hard-flight-0674", "question": "What is the average flight time of DL384?", "answer": "276.4 minutes"}
+{"qid": "hard-flight-0675", "question": "What is the average flight time of NK196?", "answer": "303.2 minutes"}
+{"qid": "hard-flight-0676", "question": "What is the average flight time of WN5363?", "answer": "142.3 minutes"}
+{"qid": "hard-flight-0677", "question": "What is the average flight time of AS2488?", "answer": "30.1 minutes"}
+{"qid": "hard-flight-0678", "question": "What is the average flight time of NK1052?", "answer": "134.6 minutes"}
+{"qid": "hard-flight-0679", "question": "What is the average flight time of WN3013?", "answer": "120.5 minutes"}
+{"qid": "hard-flight-0680", "question": "What is the average flight time of WN2975?", "answer": "229.0 minutes"}
+{"qid": "hard-flight-0681", "question": "What is the average flight time of WN5096?", "answer": "89.0 minutes"}
+{"qid": "hard-flight-0682", "question": "What is the average flight time of B668?", "answer": "108.2 minutes"}
+{"qid": "hard-flight-0683", "question": "What is the average flight time of WN5124?", "answer": "83.5 minutes"}
+{"qid": "hard-flight-0684", "question": "What is the average flight time of F9120?", "answer": "162.7 minutes"}
+{"qid": "hard-flight-0685", "question": "What is the average flight time of WN3441?", "answer": "73.2 minutes"}
+{"qid": "hard-flight-0686", "question": "What is the average flight time of UA1533?", "answer": "185.6 minutes"}
+{"qid": "hard-flight-0687", "question": "What is the average flight time of G41793?", "answer": "142.2 minutes"}
+{"qid": "hard-flight-0688", "question": "What is the average flight time of B6674?", "answer": "276.8 minutes"}
+{"qid": "hard-flight-0689", "question": "What is the average flight time of AA6207?", "answer": "51.7 minutes"}
+{"qid": "hard-flight-0690", "question": "What is the average flight time of UA4937?", "answer": "55.0 minutes"}
+{"qid": "hard-flight-0691", "question": "What is the average flight time of UA1828?", "answer": "146.0 minutes"}
+{"qid": "hard-flight-0692", "question": "What is the average flight time of AA6243?", "answer": "87.1 minutes"}
+{"qid": "hard-flight-0693", "question": "What is the average flight time of DL5153?", "answer": "96.1 minutes"}
+{"qid": "hard-flight-0694", "question": "What is the average flight time of AA2615?", "answer": "103.8 minutes"}
+{"qid": "hard-flight-0695", "question": "What is the average flight time of AA1919?", "answer": "121.3 minutes"}
+{"qid": "hard-flight-0696", "question": "What is the average flight time of B6892?", "answer": "153.8 minutes"}
+{"qid": "hard-flight-0697", "question": "What is the average flight time of G41204?", "answer": "132.2 minutes"}
+{"qid": "hard-flight-0698", "question": "What is the average flight time of AA424?", "answer": "92.6 minutes"}
+{"qid": "hard-flight-0699", "question": "What is the average flight time of AS647?", "answer": "238.6 minutes"}
+{"qid": "hard-flight-0700", "question": "What is the fastest flight from MKE to LAS on 4?", "answer": "F92051"}
+{"qid": "hard-flight-0701", "question": "What is the fastest flight from PBG to PGD on 4?", "answer": "G41627"}
+{"qid": "hard-flight-0702", "question": "What is the fastest flight from ABY to ATL on 2?", "answer": "DL4789"}
+{"qid": "hard-flight-0703", "question": "What is the fastest flight from ECP to ORD on 7?", "answer": "UA3749"}
+{"qid": "hard-flight-0704", "question": "What is the fastest flight from FAR to BNA on 2?", "answer": "G4612"}
+{"qid": "hard-flight-0705", "question": "What is the fastest flight from PAE to LAS on 7?", "answer": "AS294"}
+{"qid": "hard-flight-0706", "question": "What is the fastest flight from SHR to DEN on 3?", "answer": "UA5185"}
+{"qid": "hard-flight-0707", "question": "What is the fastest flight from JNU to PSG on 3?", "answer": "AS64"}
+{"qid": "hard-flight-0708", "question": "What is the fastest flight from PSC to MSP on 3?", "answer": "DL1685"}
+{"qid": "hard-flight-0709", "question": "What is the fastest flight from HDN to BOS on 6?", "answer": "B62628"}
+{"qid": "hard-flight-0710", "question": "What is the fastest flight from CSG to CLT on 7?", "answer": "AA5186"}
+{"qid": "hard-flight-0711", "question": "What is the fastest flight from SAV to MDW on 4?", "answer": "WN2534"}
+{"qid": "hard-flight-0712", "question": "What is the fastest flight from WRG to PSG on 2?", "answer": "AS65"}
+{"qid": "hard-flight-0713", "question": "What is the fastest flight from GFK to LAS on 4?", "answer": "G435"}
+{"qid": "hard-flight-0714", "question": "What is the fastest flight from TRI to DFW on 1?", "answer": "AA3027"}
+{"qid": "hard-flight-0715", "question": "What is the fastest flight from SRQ to IND on 1?", "answer": "WN745"}
+{"qid": "hard-flight-0716", "question": "What is the fastest flight from OME to ANC on 6?", "answer": "AS152"}
+{"qid": "hard-flight-0717", "question": "What is the fastest flight from OWB to SFB on 1?", "answer": "G42518"}
+{"qid": "hard-flight-0718", "question": "What is the fastest flight from EVV to VPS on 7?", "answer": "G42753"}
+{"qid": "hard-flight-0719", "question": "What is the fastest flight from LBF to DEN on 6?", "answer": "UA5175"}
+{"qid": "hard-flight-0720", "question": "What is the fastest flight from USA to MSY on 7?", "answer": "G41818"}
+{"qid": "hard-flight-0721", "question": "What is the fastest flight from ILG to MCO on 5?", "answer": "F91255"}
+{"qid": "hard-flight-0722", "question": "What is the fastest flight from SCK to PHX on 1?", "answer": "G43050"}
+{"qid": "hard-flight-0723", "question": "What is the fastest flight from BUF to FLL on 3?", "answer": "F92663"}
+{"qid": "hard-flight-0724", "question": "What is the fastest flight from MCO to RDU on 1?", "answer": "NK320"}
+{"qid": "hard-flight-0725", "question": "What is the fastest flight from TUS to OAK on 4?", "answer": "WN189"}
+{"qid": "hard-flight-0726", "question": "What is the fastest flight from PSE to JFK on 2?", "answer": "B6746"}
+{"qid": "hard-flight-0727", "question": "What is the fastest flight from DSM to SRQ on 4?", "answer": "G4816"}
+{"qid": "hard-flight-0728", "question": "What is the fastest flight from MKG to ORD on 6?", "answer": "UA5058"}
+{"qid": "hard-flight-0729", "question": "What is the fastest flight from FAT to LAX on 1?", "answer": "UA4770"}
+{"qid": "hard-flight-0730", "question": "What is the fastest flight from PVD to LGA on 3?", "answer": "DL4862"}
+{"qid": "hard-flight-0731", "question": "What is the fastest flight from LBF to DEN on 7?", "answer": "UA5036"}
+{"qid": "hard-flight-0732", "question": "What is the fastest flight from CLL to DFW on 1?", "answer": "AA3240"}
+{"qid": "hard-flight-0733", "question": "What is the fastest flight from PIH to SLC on 5?", "answer": "DL4333"}
+{"qid": "hard-flight-0734", "question": "What is the fastest flight from SFB to EYW on 6?", "answer": "G43721"}
+{"qid": "hard-flight-0735", "question": "What is the fastest flight from TOL to SFB on 6?", "answer": "G42279"}
+{"qid": "hard-flight-0736", "question": "What is the fastest flight from TRI to ATL on 3?", "answer": "DL4823"}
+{"qid": "hard-flight-0737", "question": "What is the fastest flight from MQT to ORD on 4?", "answer": "AA4036"}
+{"qid": "hard-flight-0738", "question": "What is the fastest flight from HPN to CLT on 4?", "answer": "AA5097"}
+{"qid": "hard-flight-0739", "question": "What is the fastest flight from HYS to SLN on 7?", "answer": "UA5036"}
+{"qid": "hard-flight-0740", "question": "What is the fastest flight from LIT to DCA on 3?", "answer": "AA3630"}
+{"qid": "hard-flight-0741", "question": "What is the fastest flight from HRL to LAS on 5?", "answer": "F91955"}
+{"qid": "hard-flight-0742", "question": "What is the fastest flight from VPS to TYS on 2?", "answer": "G42606"}
+{"qid": "hard-flight-0743", "question": "What is the fastest flight from SPS to DFW on 7?", "answer": "AA4072"}
+{"qid": "hard-flight-0744", "question": "What is the fastest flight from KTN to SIT on 4?", "answer": "AS67"}
+{"qid": "hard-flight-0745", "question": "What is the fastest flight from SPS to DFW on 5?", "answer": "AA4072"}
+{"qid": "hard-flight-0746", "question": "What is the fastest flight from JAN to MCO on 6?", "answer": "WN2923"}
+{"qid": "hard-flight-0747", "question": "What is the fastest flight from HYA to JFK on 5?", "answer": "B61963"}
+{"qid": "hard-flight-0748", "question": "What is the fastest flight from HGR to PIE on 7?", "answer": "G41976"}
+{"qid": "hard-flight-0749", "question": "What is the fastest flight from PIE to AVL on 3?", "answer": "G4446"}
+{"qid": "hard-flight-0750", "question": "What is the fastest flight from STT to MIA on 6?", "answer": "AA1461"}
+{"qid": "hard-flight-0751", "question": "What is the fastest flight from GEG to SLC on 4?", "answer": "DL1460"}
+{"qid": "hard-flight-0752", "question": "What is the fastest flight from MFE to LAX on 4?", "answer": "G41471"}
+{"qid": "hard-flight-0753", "question": "What is the fastest flight from IMT to MSP on 5?", "answer": "DL4268"}
+{"qid": "hard-flight-0754", "question": "What is the fastest flight from DAY to CLT on 5?", "answer": "AA5227"}
+{"qid": "hard-flight-0755", "question": "What is the fastest flight from MRY to DFW on 4?", "answer": "AA4004"}
+{"qid": "hard-flight-0756", "question": "What is the fastest flight from BRO to DFW on 1?", "answer": "AA3216"}
+{"qid": "hard-flight-0757", "question": "What is the fastest flight from MFE to LAS on 3?", "answer": "G4204"}
+{"qid": "hard-flight-0758", "question": "What is the fastest flight from AZO to ORD on 4?", "answer": "AA3601"}
+{"qid": "hard-flight-0759", "question": "What is the fastest flight from PIA to AZA on 7?", "answer": "G41362"}
+{"qid": "hard-flight-0760", "question": "What is the fastest flight from SGF to VPS on 4?", "answer": "G42749"}
+{"qid": "hard-flight-0761", "question": "What is the fastest flight from HLN to SEA on 4?", "answer": "AS2040"}
+{"qid": "hard-flight-0762", "question": "What is the fastest flight from YAK to JNU on 7?", "answer": "AS66"}
+{"qid": "hard-flight-0763", "question": "What is the fastest flight from OGG to SAN on 7?", "answer": "AS806"}
+{"qid": "hard-flight-0765", "question": "What is the fastest flight from LNK to MSP on 5?", "answer": "DL4313"}
+{"qid": "hard-flight-0766", "question": "What is the fastest flight from SFB to SHV on 7?", "answer": "G42396"}
+{"qid": "hard-flight-0767", "question": "What is the fastest flight from ALB to MCO on 5?", "answer": "WN140"}
+{"qid": "hard-flight-0768", "question": "What is the fastest flight from RIC to BOS on 7?", "answer": "B61482"}
+{"qid": "hard-flight-0769", "question": "What is the fastest flight from FLO to CLT on 1?", "answer": "AA6216"}
+{"qid": "hard-flight-0770", "question": "What is the fastest flight from TVC to DEN on 2?", "answer": "UA593"}
+{"qid": "hard-flight-0771", "question": "What is the fastest flight from VPS to LAS on 7?", "answer": "G42745"}
+{"qid": "hard-flight-0772", "question": "What is the fastest flight from CWA to MSP on 4?", "answer": "DL5242"}
+{"qid": "hard-flight-0773", "question": "What is the fastest flight from OWB to SFB on 5?", "answer": "G42356"}
+{"qid": "hard-flight-0774", "question": "What is the fastest flight from LAW to DFW on 1?", "answer": "AA3809"}
+{"qid": "hard-flight-0775", "question": "What is the fastest flight from ELP to MCO on 7?", "answer": "F91318"}
+{"qid": "hard-flight-0776", "question": "What is the fastest flight from GEG to SLC on 2?", "answer": "DL1460"}
+{"qid": "hard-flight-0777", "question": "What is the fastest flight from BTM to SLC on 4?", "answer": "DL4272"}
+{"qid": "hard-flight-0778", "question": "What is the fastest flight from SUN to ORD on 1?", "answer": "UA4789"}
+{"qid": "hard-flight-0779", "question": "What is the fastest flight from ACK to HPN on 3?", "answer": "B62122"}
+{"qid": "hard-flight-0780", "question": "What is the fastest flight from SDF to SFB on 3?", "answer": "G42254"}
+{"qid": "hard-flight-0781", "question": "What is the fastest flight from FAR to PIE on 4?", "answer": "G41986"}
+{"qid": "hard-flight-0782", "question": "What is the fastest flight from ABQ to SAN on 5?", "answer": "WN2257"}
+{"qid": "hard-flight-0783", "question": "What is the fastest flight from ORD to MSO on 1?", "answer": "UA5402"}
+{"qid": "hard-flight-0784", "question": "What is the fastest flight from RHI to MSP on 4?", "answer": "DL4267"}
+{"qid": "hard-flight-0785", "question": "What is the fastest flight from ADK to ANC on 3?", "answer": "AS187"}
+{"qid": "hard-flight-0786", "question": "What is the fastest flight from OTZ to OME on 7?", "answer": "AS1153"}
+{"qid": "hard-flight-0787", "question": "What is the fastest flight from RNO to PHX on 3?", "answer": "AA813"}
+{"qid": "hard-flight-0788", "question": "What is the fastest flight from DHN to ATL on 6?", "answer": "DL5392"}
+{"qid": "hard-flight-0789", "question": "What is the fastest flight from RDD to SFO on 7?", "answer": "UA5549"}
+{"qid": "hard-flight-0790", "question": "What is the fastest flight from PSM to MYR on 6?", "answer": "G42643"}
+{"qid": "hard-flight-0791", "question": "What is the fastest flight from MFR to PDX on 4?", "answer": "AS2098"}
+{"qid": "hard-flight-0792", "question": "What is the fastest flight from MSP to BTV on 2?", "answer": "DL2826"}
+{"qid": "hard-flight-0793", "question": "What is the fastest flight from CRW to DCA on 7?", "answer": "AA5153"}
+{"qid": "hard-flight-0794", "question": "What is the fastest flight from HTS to PGD on 7?", "answer": "G41652"}
+{"qid": "hard-flight-0795", "question": "What is the fastest flight from JFK to RNO on 6?", "answer": "B681"}
+{"qid": "hard-flight-0796", "question": "What is the fastest flight from LGB to DFW on 7?", "answer": "AA5949"}
+{"qid": "hard-flight-0797", "question": "What is the fastest flight from MDW to TUL on 4?", "answer": "WN1054"}
+{"qid": "hard-flight-0798", "question": "What is the fastest flight from ADQ to ANC on 7?", "answer": "AS587"}
+{"qid": "hard-flight-0799", "question": "What is the fastest flight from AUS to PGD on 7?", "answer": "G41601"}
+{"qid": "hard-flight-0800", "question": "What is the average speed of UA5437 from SAT to IAH?", "answer": "4.7 miles per minute"}
+{"qid": "hard-flight-0801", "question": "What is the average speed of AA3078 from SAF to PHX?", "answer": "6.1 miles per minute"}
+{"qid": "hard-flight-0802", "question": "What is the average speed of AS2245 from SBP to SEA?", "answer": "6.7 miles per minute"}
+{"qid": "hard-flight-0803", "question": "What is the average speed of DL4282 from SGU to SLC?", "answer": "6.0 miles per minute"}
+{"qid": "hard-flight-0804", "question": "What is the average speed of UA5120 from LBF to BFF?", "answer": "4.8 miles per minute"}
+{"qid": "hard-flight-0805", "question": "What is the average speed of G41500 from EUG to LAX?", "answer": "7.4 miles per minute"}
+{"qid": "hard-flight-0806", "question": "What is the average speed of F91130 from MCO to MSN?", "answer": "7.0 miles per minute"}
+{"qid": "hard-flight-0807", "question": "What is the average speed of AA4209 from SPS to DFW?", "answer": "4.3 miles per minute"}
+{"qid": "hard-flight-0808", "question": "What is the average speed of UA4247 from ELP to IAH?", "answer": "6.9 miles per minute"}
+{"qid": "hard-flight-0809", "question": "What is the average speed of G41095 from IND to MSY?", "answer": "7.1 miles per minute"}
+{"qid": "hard-flight-0810", "question": "What is the average speed of UA5158 from LAR to DEN?", "answer": "3.6 miles per minute"}
+{"qid": "hard-flight-0811", "question": "What is the average speed of F91124 from MEM to MCO?", "answer": "7.8 miles per minute"}
+{"qid": "hard-flight-0812", "question": "What is the average speed of DL4333 from PIH to SLC?", "answer": "4.4 miles per minute"}
+{"qid": "hard-flight-0813", "question": "What is the average speed of AA5577 from PHL to BUF?", "answer": "5.5 miles per minute"}
+{"qid": "hard-flight-0814", "question": "What is the average speed of AA3574 from MIA to MKE?", "answer": "7.2 miles per minute"}
+{"qid": "hard-flight-0815", "question": "What is the average speed of UA4370 from DIK to DEN?", "answer": "6.6 miles per minute"}
+{"qid": "hard-flight-0816", "question": "What is the average speed of UA5020 from CNY to DEN?", "answer": "6.0 miles per minute"}
+{"qid": "hard-flight-0817", "question": "What is the average speed of DL4014 from FWA to DTW?", "answer": "4.3 miles per minute"}
+{"qid": "hard-flight-0818", "question": "What is the average speed of DL4278 from BJI to MSP?", "answer": "5.3 miles per minute"}
+{"qid": "hard-flight-0819", "question": "What is the average speed of G42321 from MLI to SFB?", "answer": "7.2 miles per minute"}
+{"qid": "hard-flight-0820", "question": "What is the average speed of UA3412 from BUF to EWR?", "answer": "5.0 miles per minute"}
+{"qid": "hard-flight-0821", "question": "What is the average speed of G42262 from SFB to MLI?", "answer": "7.9 miles per minute"}
+{"qid": "hard-flight-0822", "question": "What is the average speed of DL5019 from ROC to JFK?", "answer": "4.8 miles per minute"}
+{"qid": "hard-flight-0823", "question": "What is the average speed of AA3584 from RDU to AUS?", "answer": "7.5 miles per minute"}
+{"qid": "hard-flight-0824", "question": "What is the average speed of DL3623 from FAR to MSP?", "answer": "5.6 miles per minute"}
+{"qid": "hard-flight-0825", "question": "What is the average speed of UA5124 from MCW to ORD?", "answer": "6.0 miles per minute"}
+{"qid": "hard-flight-0826", "question": "What is the average speed of UA200 from GUM to HNL?", "answer": "9.5 miles per minute"}
+{"qid": "hard-flight-0827", "question": "What is the average speed of UA1138 from MCO to CLE?", "answer": "7.5 miles per minute"}
+{"qid": "hard-flight-0828", "question": "What is the average speed of AA5631 from AEX to CLT?", "answer": "7.8 miles per minute"}
+{"qid": "hard-flight-0829", "question": "What is the average speed of AA3042 from PHX to BFL?", "answer": "6.9 miles per minute"}
+{"qid": "hard-flight-0830", "question": "What is the average speed of G42363 from OWB to SFB?", "answer": "7.4 miles per minute"}
+{"qid": "hard-flight-0831", "question": "What is the average speed of DL4851 from VLD to ATL?", "answer": "4.5 miles per minute"}
+{"qid": "hard-flight-0832", "question": "What is the average speed of F91255 from ILG to MCO?", "answer": "6.8 miles per minute"}
+{"qid": "hard-flight-0833", "question": "What is the average speed of G41687 from STC to PGD?", "answer": "8.1 miles per minute"}
+{"qid": "hard-flight-0834", "question": "What is the average speed of UA2054 from JAC to DEN?", "answer": "6.6 miles per minute"}
+{"qid": "hard-flight-0835", "question": "What is the average speed of UA3826 from HPN to ORD?", "answer": "6.0 miles per minute"}
+{"qid": "hard-flight-0836", "question": "What is the average speed of G445 from BLV to LAS?", "answer": "7.4 miles per minute"}
+{"qid": "hard-flight-0837", "question": "What is the average speed of UA5115 from TBN to DEC?", "answer": "5.3 miles per minute"}
+{"qid": "hard-flight-0838", "question": "What is the average speed of UA5098 from WYS to DEN?", "answer": "6.3 miles per minute"}
+{"qid": "hard-flight-0839", "question": "What is the average speed of UA5172 from DVL to DEN?", "answer": "6.9 miles per minute"}
+{"qid": "hard-flight-0840", "question": "What is the average speed of AA3757 from CMI to ORD?", "answer": "3.6 miles per minute"}
+{"qid": "hard-flight-0841", "question": "What is the average speed of AA6221 from LYH to CLT?", "answer": "4.3 miles per minute"}
+{"qid": "hard-flight-0842", "question": "What is the average speed of UA5773 from DIK to DEN?", "answer": "6.3 miles per minute"}
+{"qid": "hard-flight-0843", "question": "What is the average speed of AA3775 from RSW to AUS?", "answer": "6.5 miles per minute"}
+{"qid": "hard-flight-0844", "question": "What is the average speed of WN1645 from JAN to ATL?", "answer": "6.7 miles per minute"}
+{"qid": "hard-flight-0845", "question": "What is the average speed of UA5194 from VCT to IAH?", "answer": "4.1 miles per minute"}
+{"qid": "hard-flight-0846", "question": "What is the average speed of DL2298 from ANC to SLC?", "answer": "8.6 miles per minute"}
+{"qid": "hard-flight-0847", "question": "What is the average speed of AA6343 from LAW to DFW?", "answer": "4.7 miles per minute"}
+{"qid": "hard-flight-0848", "question": "What is the average speed of UA5026 from JMS to DEN?", "answer": "6.7 miles per minute"}
+{"qid": "hard-flight-0849", "question": "What is the average speed of G4734 from USA to PIE?", "answer": "6.5 miles per minute"}
+{"qid": "hard-flight-0850", "question": "What is the average speed of G42253 from IAG to SFB?", "answer": "7.6 miles per minute"}
+{"qid": "hard-flight-0851", "question": "What is the average speed of UA2411 from MSO to DEN?", "answer": "7.2 miles per minute"}
+{"qid": "hard-flight-0852", "question": "What is the average speed of AA5169 from DCA to MEM?", "answer": "7.0 miles per minute"}
+{"qid": "hard-flight-0853", "question": "What is the average speed of AA3585 from STS to DFW?", "answer": "8.1 miles per minute"}
+{"qid": "hard-flight-0854", "question": "What is the average speed of AA6039 from FAY to CLT?", "answer": "3.6 miles per minute"}
+{"qid": "hard-flight-0855", "question": "What is the average speed of AA6080 from ART to PHL?", "answer": "5.5 miles per minute"}
+{"qid": "hard-flight-0856", "question": "What is the average speed of AA4238 from BPT to DFW?", "answer": "5.3 miles per minute"}
+{"qid": "hard-flight-0857", "question": "What is the average speed of WN2108 from PBI to ATL?", "answer": "6.7 miles per minute"}
+{"qid": "hard-flight-0858", "question": "What is the average speed of UA1176 from ITO to LAX?", "answer": "8.3 miles per minute"}
+{"qid": "hard-flight-0859", "question": "What is the average speed of AA5933 from VPS to DFW?", "answer": "6.0 miles per minute"}
+{"qid": "hard-flight-0860", "question": "What is the average speed of AS61 from CDV to ANC?", "answer": "4.6 miles per minute"}
+{"qid": "hard-flight-0861", "question": "What is the average speed of UA5184 from DEC to CGI?", "answer": "5.4 miles per minute"}
+{"qid": "hard-flight-0862", "question": "What is the average speed of G42297 from FAR to SFB?", "answer": "8.0 miles per minute"}
+{"qid": "hard-flight-0863", "question": "What is the average speed of UA5025 from RKS to DEN?", "answer": "6.1 miles per minute"}
+{"qid": "hard-flight-0864", "question": "What is the average speed of DL4275 from PLN to DTW?", "answer": "5.7 miles per minute"}
+{"qid": "hard-flight-0865", "question": "What is the average speed of UA1542 from TUS to ORD?", "answer": "8.4 miles per minute"}
+{"qid": "hard-flight-0866", "question": "What is the average speed of UA4706 from COD to DEN?", "answer": "6.3 miles per minute"}
+{"qid": "hard-flight-0867", "question": "What is the average speed of UA4267 from HLN to DEN?", "answer": "6.6 miles per minute"}
+{"qid": "hard-flight-0868", "question": "What is the average speed of UA1706 from ITO to LAX?", "answer": "8.6 miles per minute"}
+{"qid": "hard-flight-0869", "question": "What is the average speed of AS77 from GST to JNU?", "answer": "2.7 miles per minute"}
+{"qid": "hard-flight-0870", "question": "What is the average speed of AS2232 from DLG to ANC?", "answer": "6.4 miles per minute"}
+{"qid": "hard-flight-0871", "question": "What is the average speed of G4243 from MLI to LAS?", "answer": "7.4 miles per minute"}
+{"qid": "hard-flight-0872", "question": "What is the average speed of WN3811 from ONT to DEN?", "answer": "7.5 miles per minute"}
+{"qid": "hard-flight-0873", "question": "What is the average speed of AA5032 from AVP to CLT?", "answer": "5.3 miles per minute"}
+{"qid": "hard-flight-0874", "question": "What is the average speed of F9735 from BKG to DEN?", "answer": "6.7 miles per minute"}
+{"qid": "hard-flight-0875", "question": "What is the average speed of UA3620 from RAP to EWR?", "answer": "7.8 miles per minute"}
+{"qid": "hard-flight-0876", "question": "What is the average speed of G41570 from STC to PGD?", "answer": "7.4 miles per minute"}
+{"qid": "hard-flight-0877", "question": "What is the average speed of AA3233 from YUM to DFW?", "answer": "8.1 miles per minute"}
+{"qid": "hard-flight-0878", "question": "What is the average speed of AA3987 from HSV to DFW?", "answer": "5.8 miles per minute"}
+{"qid": "hard-flight-0879", "question": "What is the average speed of AS172 from ANC to PHX?", "answer": "8.5 miles per minute"}
+{"qid": "hard-flight-0880", "question": "What is the average speed of AA1465 from JFK to JAC?", "answer": "6.9 miles per minute"}
+{"qid": "hard-flight-0881", "question": "What is the average speed of G41771 from PGD to PVD?", "answer": "8.2 miles per minute"}
+{"qid": "hard-flight-0882", "question": "What is the average speed of NK1106 from ACY to ATL?", "answer": "6.8 miles per minute"}
+{"qid": "hard-flight-0883", "question": "What is the average speed of AS1153 from OTZ to OME?", "answer": "5.7 miles per minute"}
+{"qid": "hard-flight-0884", "question": "What is the average speed of DL5285 from TRI to ATL?", "answer": "5.3 miles per minute"}
+{"qid": "hard-flight-0885", "question": "What is the average speed of G4478 from AVL to PGD?", "answer": "6.5 miles per minute"}
+{"qid": "hard-flight-0886", "question": "What is the average speed of WN1842 from OAK to PDX?", "answer": "7.4 miles per minute"}
+{"qid": "hard-flight-0887", "question": "What is the average speed of DL5403 from LFT to ATL?", "answer": "7.1 miles per minute"}
+{"qid": "hard-flight-0888", "question": "What is the average speed of HA1466 from PPG to HNL?", "answer": "8.4 miles per minute"}
+{"qid": "hard-flight-0889", "question": "What is the average speed of AS346 from DLG to ANC?", "answer": "6.4 miles per minute"}
+{"qid": "hard-flight-0890", "question": "What is the average speed of AS73 from SIT to JNU?", "answer": "4.0 miles per minute"}
+{"qid": "hard-flight-0891", "question": "What is the average speed of UA5058 from MKG to ORD?", "answer": "4.1 miles per minute"}
+{"qid": "hard-flight-0892", "question": "What is the average speed of UA4890 from LRD to IAH?", "answer": "5.6 miles per minute"}
+{"qid": "hard-flight-0893", "question": "What is the average speed of AA4576 from CLE to PHL?", "answer": "5.7 miles per minute"}
+{"qid": "hard-flight-0894", "question": "What is the average speed of AA5848 from BMI to DFW?", "answer": "6.9 miles per minute"}
+{"qid": "hard-flight-0895", "question": "What is the average speed of UA4794 from COD to DEN?", "answer": "6.2 miles per minute"}
+{"qid": "hard-flight-0896", "question": "What is the average speed of WN4027 from SAT to ELP?", "answer": "6.7 miles per minute"}
+{"qid": "hard-flight-0897", "question": "What is the average speed of G42799 from ABQ to AUS?", "answer": "7.7 miles per minute"}
+{"qid": "hard-flight-0898", "question": "What is the average speed of AS3409 from STS to SAN?", "answer": "7.0 miles per minute"}
+{"qid": "hard-flight-0899", "question": "What is the average speed of AA5534 from TLH to CLT?", "answer": "6.3 miles per minute"}
+{"qid": "hard-flight-0900", "question": "What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-07-12?", "answer": "213"}
+{"qid": "hard-flight-0901", "question": "What is the total number of flights operated by JetBlue Airways on 2022-04-16?", "answer": "765"}
+{"qid": "hard-flight-0902", "question": "What is the total number of flights operated by Endeavor Air Inc. on 2022-01-27?", "answer": "783"}
+{"qid": "hard-flight-0903", "question": "What is the total number of flights operated by SkyWest Airlines Inc. on 2022-05-26?", "answer": "2221"}
+{"qid": "hard-flight-0904", "question": "What is the total number of flights operated by Allegiant Air on 2022-04-21?", "answer": "463"}
+{"qid": "hard-flight-0905", "question": "What is the total number of flights operated by Republic Airlines on 2022-06-14?", "answer": "966"}
+{"qid": "hard-flight-0906", "question": "What is the total number of flights operated by Horizon Air on 2022-07-13?", "answer": "261"}
+{"qid": "hard-flight-0907", "question": "What is the total number of flights operated by Frontier Airlines Inc. on 2022-03-26?", "answer": "399"}
+{"qid": "hard-flight-0908", "question": "What is the total number of flights operated by Delta Air Lines Inc. on 2022-05-16?", "answer": "2551"}
+{"qid": "hard-flight-0909", "question": "What is the total number of flights operated by Republic Airlines on 2022-02-02?", "answer": "927"}
+{"qid": "hard-flight-0910", "question": "What is the total number of flights operated by Alaska Airlines Inc. on 2022-07-02?", "answer": "570"}
+{"qid": "hard-flight-0911", "question": "What is the total number of flights operated by Delta Air Lines Inc. on 2022-04-29?", "answer": "2539"}
+{"qid": "hard-flight-0912", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-04-02?", "answer": "2196"}
+{"qid": "hard-flight-0913", "question": "What is the total number of flights operated by SkyWest Airlines Inc. on 2022-01-29?", "answer": "1813"}
+{"qid": "hard-flight-0914", "question": "What is the total number of flights operated by Republic Airlines on 2022-05-26?", "answer": "1054"}
+{"qid": "hard-flight-0915", "question": "What is the total number of flights operated by Envoy Air on 2022-05-16?", "answer": "698"}
+{"qid": "hard-flight-0916", "question": "What is the total number of flights operated by Envoy Air on 2022-04-30?", "answer": "688"}
+{"qid": "hard-flight-0917", "question": "What is the total number of flights operated by Endeavor Air Inc. on 2022-04-11?", "answer": "723"}
+{"qid": "hard-flight-0918", "question": "What is the total number of flights operated by Horizon Air on 2022-02-08?", "answer": "218"}
+{"qid": "hard-flight-0919", "question": "What is the total number of flights operated by United Air Lines Inc. on 2022-01-09?", "answer": "1510"}
+{"qid": "hard-flight-0920", "question": "What is the total number of flights operated by Alaska Airlines Inc. on 2022-07-18?", "answer": "690"}
+{"qid": "hard-flight-0921", "question": "What is the total number of flights operated by Horizon Air on 2022-03-22?", "answer": "253"}
+{"qid": "hard-flight-0922", "question": "What is the total number of flights operated by Mesa Airlines Inc. on 2022-06-14?", "answer": "316"}
+{"qid": "hard-flight-0923", "question": "What is the total number of flights operated by Air Wisconsin Airlines Corp on 2022-03-28?", "answer": "188"}
+{"qid": "hard-flight-0924", "question": "What is the total number of flights operated by Spirit Air Lines on 2022-01-30?", "answer": "608"}
+{"qid": "hard-flight-0925", "question": "What is the total number of flights operated by Republic Airlines on 2022-06-02?", "answer": "1055"}
+{"qid": "hard-flight-0926", "question": "What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-07-17?", "answer": "234"}
+{"qid": "hard-flight-0927", "question": "What is the total number of flights operated by Horizon Air on 2022-02-27?", "answer": "272"}
+{"qid": "hard-flight-0928", "question": "What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-03-14?", "answer": "197"}
+{"qid": "hard-flight-0929", "question": "What is the total number of flights operated by Southwest Airlines Co. on 2022-01-23?", "answer": "3341"}
+{"qid": "hard-flight-0930", "question": "What is the total number of flights operated by SkyWest Airlines Inc. on 2022-03-01?", "answer": "1850"}
+{"qid": "hard-flight-0931", "question": "What is the total number of flights operated by Spirit Air Lines on 2022-04-15?", "answer": "676"}
+{"qid": "hard-flight-0932", "question": "What is the total number of flights operated by Horizon Air on 2022-01-22?", "answer": "231"}
+{"qid": "hard-flight-0933", "question": "What is the total number of flights operated by Horizon Air on 2022-03-19?", "answer": "262"}
+{"qid": "hard-flight-0934", "question": "What is the total number of flights operated by Frontier Airlines Inc. on 2022-04-03?", "answer": "455"}
+{"qid": "hard-flight-0935", "question": "What is the total number of flights operated by Southwest Airlines Co. on 2022-03-19?", "answer": "3198"}
+{"qid": "hard-flight-0936", "question": "What is the total number of flights operated by Spirit Air Lines on 2022-04-05?", "answer": "563"}
+{"qid": "hard-flight-0937", "question": "What is the total number of flights operated by Endeavor Air Inc. on 2022-04-09?", "answer": "495"}
+{"qid": "hard-flight-0938", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-02-05?", "answer": "97"}
+{"qid": "hard-flight-0939", "question": "What is the total number of flights operated by JetBlue Airways on 2022-06-13?", "answer": "736"}
+{"qid": "hard-flight-0940", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-02-12?", "answer": "2081"}
+{"qid": "hard-flight-0941", "question": "What is the total number of flights operated by Air Wisconsin Airlines Corp on 2022-07-09?", "answer": "157"}
+{"qid": "hard-flight-0942", "question": "What is the total number of flights operated by Republic Airlines on 2022-02-26?", "answer": "622"}
+{"qid": "hard-flight-0943", "question": "What is the total number of flights operated by SkyWest Airlines Inc. on 2022-03-11?", "answer": "2022"}
+{"qid": "hard-flight-0944", "question": "What is the total number of flights operated by Mesa Airlines Inc. on 2022-03-03?", "answer": "336"}
+{"qid": "hard-flight-0945", "question": "What is the total number of flights operated by SkyWest Airlines Inc. on 2022-04-03?", "answer": "2099"}
+{"qid": "hard-flight-0946", "question": "What is the total number of flights operated by Republic Airlines on 2022-04-04?", "answer": "1042"}
+{"qid": "hard-flight-0947", "question": "What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-01-21?", "answer": "188"}
+{"qid": "hard-flight-0948", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-06-02?", "answer": "2393"}
+{"qid": "hard-flight-0949", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-05-26?", "answer": "2416"}
+{"qid": "hard-flight-0950", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-06-16?", "answer": "2548"}
+{"qid": "hard-flight-0951", "question": "What is the total number of flights operated by Republic Airlines on 2022-05-15?", "answer": "969"}
+{"qid": "hard-flight-0952", "question": "What is the total number of flights operated by Southwest Airlines Co. on 2022-05-28?", "answer": "2708"}
+{"qid": "hard-flight-0953", "question": "What is the total number of flights operated by United Air Lines Inc. on 2022-07-31?", "answer": "1763"}
+{"qid": "hard-flight-0954", "question": "What is the total number of flights operated by Delta Air Lines Inc. on 2022-04-27?", "answer": "2350"}
+{"qid": "hard-flight-0955", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-01-28?", "answer": "2417"}
+{"qid": "hard-flight-0956", "question": "What is the total number of flights operated by JetBlue Airways on 2022-01-04?", "answer": "723"}
+{"qid": "hard-flight-0957", "question": "What is the total number of flights operated by SkyWest Airlines Inc. on 2022-07-09?", "answer": "2035"}
+{"qid": "hard-flight-0958", "question": "What is the total number of flights operated by United Air Lines Inc. on 2022-04-10?", "answer": "1569"}
+{"qid": "hard-flight-0959", "question": "What is the total number of flights operated by Delta Air Lines Inc. on 2022-01-31?", "answer": "2392"}
+{"qid": "hard-flight-0960", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-06-17?", "answer": "2550"}
+{"qid": "hard-flight-0961", "question": "What is the total number of flights operated by Horizon Air on 2022-01-14?", "answer": "289"}
+{"qid": "hard-flight-0962", "question": "What is the total number of flights operated by Air Wisconsin Airlines Corp on 2022-01-25?", "answer": "192"}
+{"qid": "hard-flight-0963", "question": "What is the total number of flights operated by Alaska Airlines Inc. on 2022-07-12?", "answer": "651"}
+{"qid": "hard-flight-0964", "question": "What is the total number of flights operated by Allegiant Air on 2022-02-14?", "answer": "404"}
+{"qid": "hard-flight-0965", "question": "What is the total number of flights operated by Alaska Airlines Inc. on 2022-04-20?", "answer": "651"}
+{"qid": "hard-flight-0966", "question": "What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-03-06?", "answer": "196"}
+{"qid": "hard-flight-0967", "question": "What is the total number of flights operated by Envoy Air on 2022-05-05?", "answer": "700"}
+{"qid": "hard-flight-0968", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-03-20?", "answer": "168"}
+{"qid": "hard-flight-0969", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-04-17?", "answer": "145"}
+{"qid": "hard-flight-0970", "question": "What is the total number of flights operated by Frontier Airlines Inc. on 2022-06-22?", "answer": "391"}
+{"qid": "hard-flight-0971", "question": "What is the total number of flights operated by Comair Inc. on 2022-03-28?", "answer": "664"}
+{"qid": "hard-flight-0972", "question": "What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-01-10?", "answer": "221"}
+{"qid": "hard-flight-0973", "question": "What is the total number of flights operated by Allegiant Air on 2022-03-24?", "answer": "487"}
+{"qid": "hard-flight-0974", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-01-14?", "answer": "195"}
+{"qid": "hard-flight-0975", "question": "What is the total number of flights operated by Frontier Airlines Inc. on 2022-06-29?", "answer": "392"}
+{"qid": "hard-flight-0976", "question": "What is the total number of flights operated by Endeavor Air Inc. on 2022-06-27?", "answer": "709"}
+{"qid": "hard-flight-0977", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-01-21?", "answer": "195"}
+{"qid": "hard-flight-0978", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-07-13?", "answer": "150"}
+{"qid": "hard-flight-0979", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-01-31?", "answer": "2227"}
+{"qid": "hard-flight-0980", "question": "What is the total number of flights operated by JetBlue Airways on 2022-06-28?", "answer": "721"}
+{"qid": "hard-flight-0981", "question": "What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-02-01?", "answer": "203"}
+{"qid": "hard-flight-0982", "question": "What is the total number of flights operated by Mesa Airlines Inc. on 2022-04-29?", "answer": "363"}
+{"qid": "hard-flight-0983", "question": "What is the total number of flights operated by Spirit Air Lines on 2022-05-11?", "answer": "578"}
+{"qid": "hard-flight-0984", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-03-04?", "answer": "181"}
+{"qid": "hard-flight-0985", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-07-08?", "answer": "150"}
+{"qid": "hard-flight-0986", "question": "What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-06-05?", "answer": "203"}
+{"qid": "hard-flight-0987", "question": "What is the total number of flights operated by Spirit Air Lines on 2022-05-26?", "answer": "636"}
+{"qid": "hard-flight-0989", "question": "What is the total number of flights operated by Alaska Airlines Inc. on 2022-06-19?", "answer": "659"}
+{"qid": "hard-flight-0990", "question": "What is the total number of flights operated by Capital Cargo International on 2022-07-12?", "answer": "200"}
+{"qid": "hard-flight-0991", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-03-09?", "answer": "2164"}
+{"qid": "hard-flight-0992", "question": "What is the total number of flights operated by Frontier Airlines Inc. on 2022-05-27?", "answer": "463"}
+{"qid": "hard-flight-0993", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-06-24?", "answer": "151"}
+{"qid": "hard-flight-0994", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-07-10?", "answer": "142"}
+{"qid": "hard-flight-0995", "question": "What is the total number of flights operated by Comair Inc. on 2022-04-03?", "answer": "642"}
+{"qid": "hard-flight-0996", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-07-13?", "answer": "2398"}
+{"qid": "hard-flight-0997", "question": "What is the total number of flights operated by American Airlines Inc. on 2022-07-18?", "answer": "2551"}
+{"qid": "hard-flight-0998", "question": "What is the total number of flights operated by Republic Airlines on 2022-02-23?", "answer": "935"}
+{"qid": "hard-flight-0999", "question": "What is the total number of flights operated by Republic Airlines on 2022-04-21?", "answer": "1081"}
