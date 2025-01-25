@@ -4,6 +4,10 @@
 <a href='https://arxiv.org/abs/2410.06617'><img src='https://img.shields.io/badge/Paper-Arxiv-red'> </a>
 </center>
 
+<div align="center">
+  <img src="images/tool.png" alt="framework of ToolEVO." width="100%"/>
+</div>
+
 This repository contains the code and benchmark (ToolQA-D) for our research paper titled "[Learning Evolving Tools for Large Language Models](https://arxiv.org/abs/2410.06617)", which has been accepted at ICLR 2025.
 
 # 💥 News 💥
@@ -11,7 +15,7 @@ This repository contains the code and benchmark (ToolQA-D) for our research pape
 - **[2025.01.23]** Our [ToolEVO](https://arxiv.org/pdf/2410.06617) is accepted at ICLR 2025.
 
 # :pushpin: TODO 
-- [ ] Release the checkpoint
+- [ ] Release our sampled data.
 - [x] Release the Code and Data
 
 # :paperclip: Preparation
